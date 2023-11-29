@@ -30,6 +30,18 @@ body {
         }
     }
 
+    .toc-title-container {
+        display: flex;
+        justify-content: flex-start;
+        .toc-title {
+            font-size: 1.2rem !important;
+            color: var(--background-secondary);
+            width: fit-content;
+            padding: 3px 7px 3px 0;
+            border-radius: 10px 10px 0 0;
+        }
+    }
+
     .backlinks {
         flex: 1;
         margin-top: 20px;
