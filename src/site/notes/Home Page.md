@@ -3,3 +3,9 @@
 ---
 
 
+This is an example homepage
+
+```ad-note
+this is an admonition
+```
+
