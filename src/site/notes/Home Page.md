@@ -5,9 +5,9 @@
 
 This is an example homepage
 
-```ad-note
-this is an admonition
-```
+>[!note] this is an admonition
+>This is its contents
+
 
 $$
 \frac{ dx }{ dy } = x^{2} +4y
