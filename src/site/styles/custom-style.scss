@@ -47,7 +47,7 @@ body {
             display: block;
             background-color: var(--background-secondary);
             border: 1px solid var(--text-accent);
-            border-radius: 0px;
+            border-radius: 5px;
             //padding-top: 5px;
     
             #link-graph {
@@ -78,7 +78,7 @@ body {
         margin: 10px 0 0 0;
         padding: 3px 7px;
         font-size: 1.2rem !important;
-        border-radius: 0px 0px 0 0;
+        border-radius: 5px 5px 0 0;
         color: var(--h6-color);
         }
     }
