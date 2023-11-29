@@ -9,3 +9,6 @@ This is an example homepage
 this is an admonition
 ```
 
+$$
+\frac{ dx }{ dy } = x^{2} +4y
+$$
