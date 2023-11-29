@@ -18,9 +18,28 @@ body {
     }
 
     .graph {
-        .graph-title {
-            border-radius: 0px 0px 0 0;
+    .graph-title-container {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+    }
+
+    .graph-title {
+        width: fit-content;
+        background-color: var(--background-secondary);
+        margin: 10px 0 0 0;
+        padding: 3px 7px;
+        font-size: 1.2rem !important;
+        border-radius: 0px 0px 0 0;
+        color: var(--h6-color);
         }
+    }
+    
+    #link-graph {
+        background-color: var(--background-secondary);
+        margin-bottom: 20px;
+        border-radius: 0px 0 0px 0px;
+        width: fit-content;
     }
 
     
