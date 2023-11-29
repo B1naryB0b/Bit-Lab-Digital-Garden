@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["testing","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["testing","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -36,7 +36,7 @@ $$
 ~~strike out~~
 ==highlight==
 
-[[Test Page\|Test Page]]
+[[Test Folder/Test Page\|Test Page]]
 
 > this is a quote [^1]
 
