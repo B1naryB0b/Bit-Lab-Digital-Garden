@@ -78,7 +78,7 @@ body {
         margin: 10px 0 0 0;
         padding: 3px 7px;
         font-size: 1.2rem !important;
-        border-radius: 5px 5px 0 0;
+        border-radius: 10px 10px 0 0;
         color: var(--h6-color);
         }
     }
@@ -86,9 +86,63 @@ body {
     #link-graph {
         background-color: var(--background-secondary);
         margin-bottom: 20px;
-        border-radius: 5px 0 5px 5px;
+        border-radius: 10px 0 10px 10px;
         width: fit-content;
     }
+
+    #graph-controls {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        gap: 5px;
+        position: absolute;
+        top: 115%;
+        cursor: pointer;
+        right: 0px;
+        left: 10px;
+        color: var(--text-accent);
+        z-index: 9;
     
+        i {
+            cursor: pointer;
+            padding-right: 10px;
+        }
+    
+        .depth-control {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            gap: 7px;
+    
+            .slider {
+                datalist {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    font-size: 0.6rem;
+                    // padding: 2px 0px;
+                    // width: 200px;
+                }
+    
+                option {
+                    padding: 0;
+                }
+            }
+    
+            #depth-display {
+                background-color: var(--text-accent);
+                color: var(--background-primary);
+                width: 1.3rem;
+                height: 1.3rem;
+                font-size: 0.8rem;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 0.3rem;
+                border-radius: 50%;
+            }
+        }
+    }
 
 }
