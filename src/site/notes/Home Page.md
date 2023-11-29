@@ -5,8 +5,12 @@
 
 This is an example homepage
 
->[!note] this is an admonition
+>[!note] this is a callout
 >This is its contents
+
+```ad-note
+This is an admonition
+```
 
 
 $$
