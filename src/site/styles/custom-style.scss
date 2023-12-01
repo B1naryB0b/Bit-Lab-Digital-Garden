@@ -11,7 +11,7 @@ body {
     //   color: black;
     //  }
 
-    /*
+    
     .toc {
         padding-right: 5px;
         background-color: var(--background-secondary);
@@ -21,7 +21,7 @@ body {
         ol {
             list-style: none;
             padding-left: 20px;
-            //border-left: 2px solid var(--background-secondary);
+            border-left: 2px solid var(--background-primary);
         }
 
         & > ol {
@@ -29,19 +29,7 @@ body {
             border-left: none;
         }
     }
-
-    .toc-title-container {
-        display: flex;
-        justify-content: flex-start;
-
-        .toc-title {
-            font-size: 1.2rem !important;
-            color: var(--h6-color);
-            width: fit-content;
-            padding: 3px 7px 3px 0;
-            border-radius: 10px 10px 0 0;
-        }
-    }*/
+    
     
     .backlinks {
         flex: 1;
