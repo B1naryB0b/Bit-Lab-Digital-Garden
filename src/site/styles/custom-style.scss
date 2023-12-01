@@ -11,7 +11,7 @@ body {
     //   color: black;
     //  }
 
-    
+
     .toc {
         padding-right: 5px;
         background-color: var(--background-secondary);
@@ -29,7 +29,7 @@ body {
             border-left: none;
         }
     }
-    
+
     .backlinks {
         flex: 1;
         margin-top: 20px;
@@ -56,5 +56,16 @@ body {
         padding: var(--callout-padding);
     }
 
+    .search-button {
+        display: flex;
+        align-items: center;
+    }
 
+    .search-icon {
+        margin-right: 8px; /* Adjust space between icon and text */
+    }
+
+    .search-text {
+        /* Additional styling if needed */
+    }
 }
