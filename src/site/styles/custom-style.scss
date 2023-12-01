@@ -56,16 +56,18 @@ body {
         padding: var(--callout-padding);
     }
 
-    /*.search-button {
+    .search-button {
         display: flex;
-        align-items: flex-start;
+        align-items: center;
+        justify-content: flex-start;
+        padding-left: 20px;
     }
 
     .search-icon {
-        margin-right: 8px;*/ /* Adjust space between icon and text */
-    /*}
+        margin-right: 8px;
+    }
 
-    .search-text {*/
+    .search-text {
         /* Additional styling if needed */
-    /*}*/
+    }
 }
