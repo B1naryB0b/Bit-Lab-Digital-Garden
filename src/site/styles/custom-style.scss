@@ -12,7 +12,7 @@ body {
     //  }
 
 
-/*    .toc {
+    .toc {
         padding-right: 5px;
         background-color: var(--background-secondary);
         padding: 10px;
@@ -45,7 +45,7 @@ body {
 
     .backlinks {
         flex: 1;
-        margin-top: 20px;
+        margin-top: 10px;
         background-color: var(--background-secondary);
         border-radius: 10px;
         padding: 10px;
@@ -136,7 +136,7 @@ body {
         border-radius: 10px 0 10px 10px;
         width: fit-content;
     }
-
+    /*
     #graph-controls {
         display: flex;
         flex-direction: row;
@@ -191,6 +191,7 @@ body {
             }
         }
     }
+    */
 
     .callout {
         overflow: hidden;
@@ -200,13 +201,9 @@ body {
         border-radius: var(--callout-radius);
         margin: 1em 0;
         mix-blend-mode: var(--callout-blend-mode);
-        background-color: rgba(var(--callout-color), 0.2);
+        background-color: rgba(var(--callout-color), 0.1);
         padding: var(--callout-padding);
     }
 
-    .foldername-wrapper {
-        cursor: pointer;
-        margin: 4px 0 4px 2px;
-        border-radius: 10px 10px 0 0;
-    }*/
+
 }
