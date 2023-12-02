@@ -1,83 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["testing","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
+# Hi, welcome to Bit Lab!
 
+**This is a vault of information on anything game dev.** I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website.
 
-# This is a heading 1
-## This is a heading 2
-### This is a heading 3
-#### This is a heading 4
-##### This is a heading 5
-###### This is a heading 6
+There is lots of gold out there for those that know where to look, but it is often a long and tedious journey to find all of those pockets of gold scattered all over the internet. **From GDC, Brackeys, Code Monkey, Unreal Sensei and many, many more.**
 
+I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. To see the full list, check the side bar.
 
-This is an example homepage
-
->[!note]+ this is a callout
->This is its contents
->>[!example] his is a nested callout
->>This is the contents of it
->Now back to the original one
-
-```ad-note
-This is an admonition
-```
-
-
-$$
-\begin{vmatrix}a & b\\
-c & d
-\end{vmatrix}=ad-bc
-$$
-
-**Bold text**
-*Italic text*
-~~strike out~~
-==highlight==
-
-[[Test Folder/Test Page\|Test Page]]
-
-> this is a quote [^1]
-
-- [x] This is a checked box
-- [ ] This is an unchecked box
-
-
-1. First list item
-2. Second list item
-3. Third list item
-
-
-- First list item
-- Second list item
-- Third list item
----
-
-
-| First name | Last name |
-| ---------- | --------- |
-| Max        | Planck    |
-| Marie      | Curie     |
-
-
-```mermaid
-graph TD
-
-Biology --> Chemistry
-```
-
-
-```js
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-
-![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
-
-
-[^1]: This is the referenced text
+One thing to note, although I will do my best to keep the information as high quality as possible, there will inevitably be mistakes in the Bit Lab. If that is the case please [[Contact\|contact me]] and I'll try to quickly resolve and correct any issues that arise from this.
