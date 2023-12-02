@@ -8,6 +8,27 @@
 
 There is lots of gold out there for those that know where to look, but it is often a long and tedious journey to find all of those pockets of gold scattered all over the internet. **From GDC, Brackeys, Code Monkey, Unreal Sensei and many, many more.**
 
-I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. To see the full list, check the side bar.
+![4ff0c61bfc017dc9106d26464f8b02b4.gif|1080px](/img/user/Bit%20Lab%20Organisation/Images/4ff0c61bfc017dc9106d26464f8b02b4.gif)
 
-One thing to note, although I will do my best to keep the information as high quality as possible, there will inevitably be mistakes in the Bit Lab. If that is the case please [[Contact\|contact me]] and I'll try to quickly resolve and correct any issues that arise from this.
+# Where to start?
+
+If you are unsure, **check out the [[Nooblets Guide\|Nooblets Guide]] for an idea of what to do.** It contains links to many of the most useful info for budding new developers. Otherwise, just poking around in the sidebar or the graph view is also a great place to start.
+
+![f5c0a47fbbf9dc5c900caf21321cd760.gif|1080px](/img/user/Bit%20Lab%20Organisation/Images/f5c0a47fbbf9dc5c900caf21321cd760.gif)
+
+# Looking for something specific?
+
+Use the **search function in the sidebar/header (shortcut is CTRL + K)** and type in what you are looking for, if you are luck it might already be inside the Bit Lab. If what you are looking for is a bit more... wishy washy, a pixel art technique you just can't remember the name of, or Lico? Lisov? Li... something substitution principle. You get the picture **try using the tags to find what you are looking for.** 
+
+![6870545e71bc06d925988660a0fc61d5.gif|1080px](/img/user/Bit%20Lab%20Organisation/Images/6870545e71bc06d925988660a0fc61d5.gif)
+
+# Want to help?
+
+I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. I would be more than **open to contributions from individuals from any part of the game dev community**, be it Gameplay Testers, QA folks, YouTube Dev Loggers, AAA Veterans or even a hobbyist who just likes to join game jams. **Everyone is welcome!**
+
+**If you are interested in helping out, [[Contact\|contact me]].** 
+
+I am planning to setup a discord around the Bit Lab if there are more users and contributors, so you might see a discord link here soon.
+# Spot a mistake?
+
+Although I and any contributors do our best to keep the information as high quality as possible, there will inevitably be mistakes in the Bit Lab. If that is the case **please [[Contact\|contact me]] and I'll try to quickly resolve and correct any issues** that arise from this.
