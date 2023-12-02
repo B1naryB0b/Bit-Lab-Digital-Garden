@@ -70,4 +70,17 @@ body {
     .search-text {
         /* Additional styling if needed */
     }
+
+    .content {
+        max-width: 900px;
+        margin: auto;
+        font-size: 18px;
+        line-height: 1.5;
+        margin-top: 90px;
+        position: relative;
+
+        @media (max-width: 900px) {
+            margin-top: 75px;
+        }
+    }
 }
