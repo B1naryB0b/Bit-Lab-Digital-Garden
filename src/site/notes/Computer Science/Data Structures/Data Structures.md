@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/data-structures/"}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/data-structures/","tags":["beginner"]}
 ---
 
 
@@ -11,7 +11,7 @@ The difficult of data structures comes from picking the right one for your use c
 
 # Primitive
 
-These are [[Computer Science/Variables\|variable]] data types that act as the **building blocks of data structures.** They are chained or allocated in groups to create any of the more complex objects like [[Computer Science/Data Structures/Array\|arrays]] or [[Computer Science/Data Structures/List\|lists]] and many others.
+These are [[Computer Science/Data Structures/Variables\|variable]] data types that act as the **building blocks of data structures.** They are chained or allocated in groups to create any of the more complex objects like [[Computer Science/Data Structures/Array\|arrays]] or [[Computer Science/Data Structures/List\|lists]] and many others.
 
 Primitive data structures includes stuff like:
 - Booleans
@@ -23,7 +23,7 @@ Primitive data structures includes stuff like:
 
 # Non-primitive
 
-Non-primitive data structures fall into two camps, linear and non-linear. Lots of nons going around.
+Non-primitive data structures fall into two camps, linear and non-linear.
 ## Linear
 
 These are data structures that are arranged in sequence, one after the other like [[Computer Science/Data Structures/Array\|arrays]], [[Computer Science/Data Structures/Stack\|stacks]] or [[Computer Science/Data Structures/Queue\|queues]]. They are often quite simple and intuitive, and although they are more simple to implement, their **time complexity scales with the amount of data they are holding.**
@@ -39,7 +39,7 @@ for number in numbers:
     print(number)
 ```
 
-You can see that as the number of elements increases the time complexity also increases significantly. Especially once we start iterating over 2D or higher order linear data structures.
+You can see that as the number of elements increases the time complexity also increases significantly. Especially once we start iterating over 2D or higher order linear data structures we get $O(n^{2})$ [[Computer Science/Complexity/Time Complexity\|time complexity]].
 
 ```python
 # Define a 2D array (list of lists) with some values
@@ -53,3 +53,5 @@ for row in numbers:
 ```
 
 ## Non-linear
+
+These are data structures that are **arranged in a hierarchy where a [[Computer Science/Data Structures/Nodes\|node]] containing an element is connected to one or more other [[Computer Science/Data Structures/Nodes\|nodes]].** They are not arranged in any particular sequence which makes them more difficult to implement and requires multiple runs to traverse the entire data structure. However, **their time complexity tends to remain constant even when working with large amounts of data** making them much more efficient for large scale applications.
