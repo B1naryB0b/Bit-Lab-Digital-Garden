@@ -18,7 +18,7 @@ Primitive data structures includes stuff like:
 - Integers
 - Floats
 - Characters
-- Strings (basically an array of characters in a trench coat)
+- Strings
 - Pointers
 
 # Non-primitive
