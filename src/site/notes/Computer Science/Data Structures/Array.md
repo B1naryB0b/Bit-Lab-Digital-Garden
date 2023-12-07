@@ -111,5 +111,5 @@ Removing an element
 
 ![Array Memory Deallocation.excalidraw.png|1080](/img/user/Excalidraw/Array%20Memory%20Deallocation.excalidraw.png)
 
-In some languages like [[Programming/Programming Languages/Python\|python]] you can't create arrays without using a library like NumPy.
+In some languages like [[IRL Programming/Programming Languages/Python\|python]] you can't create arrays without using a library like NumPy.
 
