@@ -14,7 +14,7 @@ There is lots of gold out there for those that know where to look, but it is oft
 
 If you are unsure, **check out the [[Nooblets Guide\|Nooblets Guide]] for an idea of what to do.** It contains links to many of the most useful info for budding new developers. Otherwise, just poking around in the sidebar or the graph view is also a great place to start.
 
-![f5c0a47fbbf9dc5c900caf21321cd760.gif|1080px](/img/user/Bit%20Lab%20Organisation/Images/f5c0a47fbbf9dc5c900caf21321cd760.gif)
+![4b3e5c9c42fb5da2b2ef1e0ba1312103.gif|1080](/img/user/Bit%20Lab%20Organisation/Images/4b3e5c9c42fb5da2b2ef1e0ba1312103.gif)
 
 # Looking for something specific?
 
