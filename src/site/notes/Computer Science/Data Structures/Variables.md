@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/variables/","tags":["nooblet"]}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/variables/","tags":["nooblet","beginner"]}
 ---
 
 # Ints
@@ -31,6 +31,10 @@ A string is an array of characters that has some additional functionality to all
 >-Me
 
 # Pointers
+
+A pointer is a way of referencing an address in memory, hence the name pointer, it is literally pointing at another memory address.
+
+Pointers are a way to reference something without having to recompute it.
 
 # Consts
 
