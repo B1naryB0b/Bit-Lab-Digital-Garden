@@ -11,7 +11,7 @@ The difficult of data structures comes from picking the right one for your use c
 
 # Primitive
 
-These are [[Computer Science/Data Structures/Variables\|variable]] data types that act as the **building blocks of data structures.** They are chained or allocated in groups to create any of the more complex objects like [[Computer Science/Data Structures/Array\|arrays]] or [[Computer Science/Data Structures/List\|lists]] and many others.
+These are [[Computer Science/Data Structures/Variables\|variable]] data types that act as the **building blocks of data structures.** They are chained or allocated in groups to create any of the more complex objects like [[Computer Science/Data Structures/Array\|arrays]] or [[Computer Science/Data Structures/Linked List\|lists]] and many others.
 
 Primitive data structures includes stuff like:
 - Booleans
@@ -54,4 +54,8 @@ for row in numbers:
 
 ## Non-linear
 
-These are data structures that are **arranged in a hierarchy where a [[Computer Science/Data Structures/Nodes\|node]] containing an element is connected to one or more other [[Computer Science/Data Structures/Nodes\|nodes]].** They are not arranged in any particular sequence which makes them more difficult to implement and requires multiple runs to traverse the entire data structure. However, **their time complexity tends to remain constant even when working with large amounts of data** making them much more efficient for large scale applications.
+These are data structures that are **arranged in a hierarchy where a [[Computer Science/Data Structures/Nodes\|node]] containing an element is connected to one or more other [[Computer Science/Data Structures/Nodes\|nodes]].** They are not arranged in any particular sequence which makes them more difficult to implement and requires multiple passes to traverse the entire data structure. However, **their [[Computer Science/Complexity/Time Complexity\|time complexity]] tends to remain constant even when working with large amounts of data** making them much more efficient for large scale applications.
+
+For instance in something like the graph shown below its not possible for you to do a single pass (shown in purple) to traverse the entire structure. **You must do multiple passes to search the entire data structure.**
+
+![Non-linear Data Structure (Graph).excalidraw.png](/img/user/Excalidraw/Non-linear%20Data%20Structure%20(Graph).excalidraw.png)
