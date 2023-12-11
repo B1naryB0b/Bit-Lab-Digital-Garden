@@ -69,13 +69,10 @@ while current_node:
     print(current_node.get_value())
     current_node = current_node.get_next_node()
 ```
-
-This code will output:
-
-```
+```output
 1
 2
 3
 ```
 
-There are more in-depth implementations shown in each data structure
+There are more in-depth implementations shown in each data structure.
