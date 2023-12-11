@@ -4,7 +4,44 @@
 
 # Ints
 
-An integer or int is a whole value number. This means that you can't store decimal values or factions with it (unless the fractions simplify to whole numbers).
+Ints are stored differently depending on the language, but are generally **32 bits / 4 bytes** of [[Computer Science/Binary\|machine code]] **used to represent a signed (meaning including negative) whole number.** You can't store decimal values or factions with it (unless the fractions simplify to whole numbers).
+
+For instance in [[IRL Programming/Programming Languages/C Sharp\|C#]] or [[IRL Programming/Programming Languages/Java\|Java]] an `int` can represent values in the range:
+-2,147,483,648 to 2,147,483,647
+
+For some languages the size of an `int` is determined by the [[Computer Science/Complier\|compiler]] such as with C++ or is machine dependent like in Swift. There are even some languages like [[IRL Programming/Programming Languages/Python\|Python]] where there is no limit on the range of integers it can store[^1].
+
+## Short
+
+In some rare cases you might *need* to save [[Computer Science/Hardware/RAM\|memory]] or improve the performance of a particular function. In that case you have the `short`, **16 bits / 2 bytes** of [[Computer Science/Binary\|machine code]] that work the same as an `int` but can only store numbers in the range:
+-32,768 to 32,767
+
+```ad-warning
+It is only feasible to make use of a `short` when working at low integer ranges as you are much more likely to hit an [[Overflow Error|overflow error]].
+
+Also note that this is a micro optimisation and in most instances you should just stick with using an `int`. 
+
+Your time is more valuable than your computers.
+```
+
+## Long
+
+A `long` is far more likely to have practical applications, especially when working with very large numbers. It is **64 bits / 8 bytes** of [[Computer Science/Binary\|machine code]] that stores signed whole numbers in the absurdly large range:
+-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+
+This can have uses when working with very large numbers although it does take up double the [[Computer Science/Hardware/RAM\|memory]] of an `int`so can be quite costly if used in large [[Computer Science/Data Structures/Data Structures\|data structures]].
+
+## Unsigned
+
+So far all of the integers we've looked at are signed and can have a positive or negative value. If you are looking at a specific case where you won't be using negative numbers then you can use the unsigned variants of `int`, `short` and `long`.
+
+These are `uint`, `ushort` and `ulong` which trade the bit used for denoting a positive or negative integer with doubling the upper limit of the range. Compare the ranges of `uint` and `int`:
+`int`: -2,147,483,648 to 2,147,483,647
+`uint`: 0 to 4,294,967,295
+
+```ad-warning
+It is not recommended to use unsigned integer in most cases as they are not [CLS-Compliant](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bhc3fa7f(v=vs.90)?redirectedfrom=MSDN). They only make sense when you are doing [[Bitwise Operations|bitwise operations]] or are desperate to take advantage of that extra positive range.
+```
 
 # Floats
 
@@ -27,7 +64,7 @@ A character or char is an N-bit representation of an ASCII letter or number. The
 
 A string is an array of characters that has some additional functionality to allow for concatenation and modification of 
 
->Wait... so it's just an array of characters in a trenchcoat?
+>Wait... so it's just an array of characters in a trench coat?
 >-Me
 
 # Pointers
@@ -40,5 +77,6 @@ Pointers are a way to reference something without having to recompute it.
 
 
 
+# Footnotes
 
-
+[^1]: https://press.rebus.community/programmingfundamentals/chapter/integer-data-type/
