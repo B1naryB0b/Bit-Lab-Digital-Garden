@@ -11,7 +11,7 @@ The difficult of data structures comes from picking the right one for your use c
 
 # Primitive
 
-These are [[Computer Science/Data Structures/Variables\|variable]] data types that act as the **building blocks of data structures.** They are chained or allocated in groups to create any of the more complex objects like [[Computer Science/Data Structures/Array\|arrays]] or [[Computer Science/Data Structures/Linked List\|lists]] and many others.
+These are [[Computer Science/Variables/Variables\|variable]] data types that act as the **building blocks of data structures.** They are chained or allocated in groups to create any of the more complex objects like [[Computer Science/Data Structures/Array\|arrays]] or [[Computer Science/Data Structures/Linked List\|lists]] and many others.
 
 Primitive data structures includes stuff like:
 - Booleans
