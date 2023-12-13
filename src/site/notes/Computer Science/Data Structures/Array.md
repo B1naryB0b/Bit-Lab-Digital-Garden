@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/computer-science/data-structures/array/"}
 ---
 
-An array is a collection of primitive [[Computer Science/Data Structures/Variables\|variables]] that allows you to use some standard manipulations, on a large group of data. 
+An array is a collection of primitive [[Computer Science/Variables/Variables\|variables]] that allows you to use some standard manipulations, on a large group of data. 
 
 # Using Arrays
 
 ## 1D Arrays
 
-A 1D array is the most simple form of a collection of primitive [[Computer Science/Data Structures/Variables\|variables]]. For instance:
+A 1D array is the most simple form of a collection of primitive [[Computer Science/Variables/Variables\|variables]]. For instance:
 ```csharp
 // Array of heights in cm
 int[] heights = new int[] { 170, 183, 165, 165, 175, 170 };
