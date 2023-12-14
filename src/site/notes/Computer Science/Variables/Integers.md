@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/variables/integers/"}
+{"dg-publish":true,"permalink":"/computer-science/variables/integers/","tags":["nooblet","beginner"]}
 ---
 
 
