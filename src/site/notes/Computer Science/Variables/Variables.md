@@ -106,7 +106,7 @@ A Boolean or bool is a true or false value, sometimes denoted through a 1 or 0.
 # Chars
 
 A character or char is an N-bit representation of an ASCII letter or number. These characters can't be modified with a mathematical operator.
-## Strings
+# Strings
 
 A string is an array of characters that has some additional functionality to allow for concatenation and modification of 
 
