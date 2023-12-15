@@ -58,6 +58,8 @@ This array is stored in [[Computer Science/Hardware/RAM\|memory]] sequentially w
 
 ## Accessing
 
+An arrays lookup speed doesn't depend on the size of the array. For instance:
+
 ```csharp
 //Iterating through the array index
 int[] numbers = new int[] { 1, 2, 3, 4 };
@@ -68,7 +70,21 @@ for (int i = 0; i < numbers.Length; i++)
 }
 ```
 
-This is  when using an array, 
+```start-multi-column  
+ID: ExampleRegion1  
+number of columns: 2  
+largest column: right
+```
+![Array in Memory.excalidraw.png](/img/user/Excalidraw/Array%20in%20Memory.excalidraw.png)
+
+--- end-column ---
+
+In this code we are accessing each number in the array by index. Because we know the memory location of the array we just need to go to however many memory locations along depending on the index.
+
+
+
+--- end-multi-column
+
 
 ## Searching
 
