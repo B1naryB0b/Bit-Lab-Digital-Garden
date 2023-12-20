@@ -28,3 +28,10 @@ If you've made it this far then I hope the section above acts as fair warning to
 
 ![crossroad-signpost-saying-this-way-600nw-581985622.webp|1080px](/img/user/_Bit%20Lab%20Organisation/Images/crossroad-signpost-saying-this-way-600nw-581985622.webp)
 
+**I try my best to make the resources here independent of which programming languages you use or what game engine you work in.** This is so that whatever you learn can be applied to a whole range of projects rather than a select few in specific languages and engines. Although there are language and engine specific content, **I recommend starting out with broadly applicable topics** and often provide examples in whichever language best illustrates something.
+
+Here are some of my recommended starting points:
+
+```query
+tag: #nooblet 
+```
