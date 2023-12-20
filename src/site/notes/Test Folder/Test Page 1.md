@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-folder/test-page-1/"}
+{"dg-publish":true,"permalink":"/test-folder/test-page-1/","tags":["testing"]}
 ---
 
 [[Test Folder/Test Page 2\|Test Page 2]]
