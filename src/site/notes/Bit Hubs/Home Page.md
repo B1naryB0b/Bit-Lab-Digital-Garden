@@ -22,6 +22,12 @@ Use the **search function in the sidebar/header (shortcut is CTRL + K)** and typ
 
 ![6870545e71bc06d925988660a0fc61d5.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Images/6870545e71bc06d925988660a0fc61d5.gif)
 
+# Looking for updates on my games?
+
+**Check out the devlog section** for any updates on the games I'm currently working on. Many of them have **in-depth technical explanations** of how I went about building a particular feature as well as **resources to build something similar.**
+
+I'm currently working on #void-serpent so click on the tag to find info related to the game.
+
 # Want to help?
 
 I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. I would be more than **open to contributions from individuals from any part of the game dev community**, be it Gameplay Testers, QA folks, YouTube Dev Loggers, AAA Veterans or even a hobbyist who just likes to join game jams. **Everyone is welcome!**
@@ -29,6 +35,7 @@ I (and anyone willing to join me on my torturous quest) will try to cover a rang
 **If you are interested in helping out, [[Bit Hubs/Contact\|contact me]].** 
 
 I am planning to setup a discord around the Bit Lab if there are more users and contributors, so you might see a discord link here soon.
+
 # Spot a mistake?
 
 Although I and any contributors do our best to keep the information as high quality as possible, there will inevitably be mistakes in the Bit Lab. If that is the case **please [[Bit Hubs/Contact\|contact me]] and I'll try to quickly resolve and correct any issues** that arise from this.
