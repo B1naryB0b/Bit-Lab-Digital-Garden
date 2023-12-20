@@ -70,21 +70,9 @@ for (int i = 0; i < numbers.Length; i++)
 }
 ```
 
-```start-multi-column  
-ID: ExampleRegion1  
-number of columns: 2  
-largest column: right
-```
-![Array in Memory.excalidraw.png](/img/user/Excalidraw/Array%20in%20Memory.excalidraw.png)
+In this code we are accessing each number in the array by index. Because we know the memory location of the array we just need to go to however many memory locations along depending on the index. When we access `numbers[2]` all we have to do is a single command with constant [[Computer Science/Complexity/Time Complexity\|time complexity]] (or $O(1)$ time), which is `numbers_memory_address + (memory_size * index)`.
 
---- end-column ---
-
-In this code we are accessing each number in the array by index. Because we know the memory location of the array we just need to go to however many memory locations along depending on the index.
-
-
-
---- end-multi-column
-
+![Array in Memory.excalidraw.png|1080](/img/user/Excalidraw/Array%20in%20Memory.excalidraw.png)
 
 ## Searching
 
