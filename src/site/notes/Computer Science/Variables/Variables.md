@@ -11,7 +11,7 @@ Ints are stored differently depending on the language, but are generally **32 bi
 int population = 100
 int populationGrowth= -3
 
-//These invalid as they are not whole numbers
+//These are invalid as they are not whole numbers
 int averageAge = 35.4
 int averageTestScore = 14/20
 ```
@@ -26,7 +26,7 @@ Console.WriteLine($"Range of int: {min:N0} to {max:N0}");
 Range of int: -2,147,483,648 to 2,147,483,647
 ```
 
-For some languages the size of an `int` is determined by the [[Computer Science/Complier\|compiler]] such as with C++ or is machine dependent like in Swift. There are even some languages like [[IRL Programming/Programming Languages/Python\|Python]] where there is no limit on the range of integers it can store[^1].
+For some languages the size of an `int` is determined by the [[Computer Science/Complier\|compiler]] such as with C++ or is machine dependent like in Swift. There are even some languages like [[IRL Programming/Programming Languages/Python\|Python]] where there is no limit on the range of integers it can store.[^1]
 
 ## Short
 
@@ -40,13 +40,12 @@ Console.WriteLine($"Range of short: {min:N0} to {max:N0}");
 Range of short: -32,768 to 32,767
 ```
 
-```ad-warning
-It is only feasible to make use of a `short` when working at low integer ranges as you are much more likely to hit an [[Overflow Error|overflow error]].
-
-Also note that this is a micro optimisation and in most instances you should just stick with using an `int`. 
-
-Your time is more valuable than your computers.
-```
+> [!warning]
+> It is only feasible to make use of a `short` when working at low integer ranges as you are much more likely to hit an [[Computer Science/Overflow Error\|overflow error]].
+> 
+> Also note that this is a micro optimisation and in most instances you should just stick with using an `int`. 
+> 
+> Your time is more valuable than your computers.
 
 ## Long
 
@@ -85,13 +84,42 @@ Console.WriteLine($"Range of uint: {min:N0} to {max:N0}");
 Range of uint: 0 to 4,294,967,295
 ```
 
-```ad-warning
-It is not recommended to use unsigned integer in most cases as they are not [CLS-Compliant](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bhc3fa7f(v=vs.90)?redirectedfrom=MSDN). They only make sense when you are doing [[Bitwise Operations|bitwise operations]] or are desperate to take advantage of that extra positive range.
-```
+> [!warning]
+> It is not recommended to use unsigned integer in most cases as they are not [CLS-Compliant](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bhc3fa7f(v=vs.90)?redirectedfrom=MSDN). They only make sense when you are doing [[Computer Science/Maths/Discrete Maths/Bitwise Operations\|bitwise operations]] or are desperate to take advantage of that extra positive range.
 
 # Floats
 
-A floating point number or float is a N-bit representation of a number, it gets it's name from the fact that the first x-bits are used to denote the sign of the number and the position of its decimal point, thus allowing it to offer a massive breath of possible values without overloading it's memory budget.
+A floating point number or float, depending on the language, is generally 32 bits / 4 bytes of [[Computer Science/Binary\|machine code]] used to represent a signed (meaning including negative) decimal number. It gets it's name from the fact that after the sign bit, the next five bits are used to denote the exponent of the number or where the decimal point is, hence floating point. The significand is a sum of fractions where the first bit is $\frac{1}{2}$ and each subsequent bit is half of the one that came before it (e.g. $\frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{1}{16}... \frac{1}{1024}$).
+
+![floating_point_4_darkcolor.006.webp](/img/user/floating_point_4_darkcolor.006.webp)
+
+This way of storing numbers allows you to reach 7 decimal digits of precision within a massive range using only 32 bits / 4 bytes of [[Computer Science/Hardware/RAM\|memory]].[^2]
+
+```csharp
+//These are valid integers (some languages use f suffix to denote floats)
+float mols = 12.14f;
+float avagadroConstant = 6.022E23f;
+float boltzmannConstant = 1.380649f * Mathf.Pow(10, -23);
+
+//These are invalid or inaccurate as they are not decimal values or are out of range
+float plancksConstant = 6.62607015E-34f; //You lose 1 decimal digit of accuracy
+float thisIsNotAFloat = "This is not a float";
+```
+
+For instance in [[IRL Programming/Programming Languages/C Sharp\|C#]] and [[IRL Programming/Programming Languages/Java\|Java]] a `float` can represent values in the range:
+
+```csharp
+float max = float.MaxValue;
+float min = float.MinValue;
+
+Console.WriteLine($"Range of float: {min} to {max}");
+```
+```output
+Range of float: -3.402823E+38 to 3.402823E+38
+```
+
+> [!tip]
+> Because floats can be used to represent a massive range of values, it is better to think of them in terms of decimal digits of precision rather than in terms of size.
 ## Doubles
 
 >When two floats love each other very much they combine like something out of an anime.
@@ -126,3 +154,5 @@ Pointers are a way to reference something without having to recompute it.
 # Footnotes
 
 [^1]: https://press.rebus.community/programmingfundamentals/chapter/integer-data-type/
+[^2]: https://press.rebus.community/programmingfundamentals/chapter/floating-point-data-type/
+[^3]: https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net
