@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/computer-science/data-structures/nodes/"}
 ---
 
-```ad-tldr
-Nodes are a basic data structure composed of two parts:
-- The data in the node (this can be any [[Variables|variable]])
-- Links to other nodes
-```
+> [!tldr]
+> Nodes are a basic data structure composed of two parts:
+> - The data in the node (this can be any [[Computer Science/Variables/Variables\|variable]])
+> - Links to other nodes
 
 # Larger Structures
 
