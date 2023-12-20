@@ -17,7 +17,7 @@ Ints are stored differently depending on the language, but are generally **32 bi
 int population = 100
 int populationGrowth= -3
 
-//These invalid as they are not whole numbers
+//These are invalid as they are not whole numbers
 int averageAge = 35.4
 int averageTestScore = 14/20
 ```
@@ -32,7 +32,7 @@ Console.WriteLine($"Range of int: {min:N0} to {max:N0}");
 Range of int: -2,147,483,648 to 2,147,483,647
 ```
 
-For some languages the size of an `int` is determined by the [[Computer Science/Complier\|compiler]] such as with C++ or is machine dependent like in Swift. There are even some languages like [[IRL Programming/Programming Languages/Python\|Python]] where there is no limit on the range of integers it can store[^1].
+For some languages the size of an `int` is determined by the [[Computer Science/Complier\|compiler]] such as with C++ or is machine dependent like in Swift. There are even some languages like [[IRL Programming/Programming Languages/Python\|Python]] where there is no limit on the range of integers it can store.[^1]
 
 ## Short
 
@@ -46,13 +46,12 @@ Console.WriteLine($"Range of short: {min:N0} to {max:N0}");
 Range of short: -32,768 to 32,767
 ```
 
-```ad-warning
-It is only feasible to make use of a `short` when working at low integer ranges as you are much more likely to hit an [[Overflow Error|overflow error]].
-
-Also note that this is a micro optimisation and in most instances you should just stick with using an `int`. 
-
-Your time is more valuable than your computers.
-```
+> [!warning]
+> It is only feasible to make use of a `short` when working at low integer ranges as you are much more likely to hit an [[Computer Science/Overflow Error\|overflow error]].
+> 
+> Also note that this is a micro optimisation and in most instances you should just stick with using an `int`. 
+> 
+> Your time is more valuable than your computers.
 
 ## Long
 
@@ -91,9 +90,8 @@ Console.WriteLine($"Range of uint: {min:N0} to {max:N0}");
 Range of uint: 0 to 4,294,967,295
 ```
 
-```ad-warning
-It is not recommended to use unsigned integer in most cases as they are not [CLS-Compliant](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bhc3fa7f(v=vs.90)?redirectedfrom=MSDN). They only make sense when you are doing [[Bitwise Operations|bitwise operations]] or are desperate to take advantage of that extra positive range.
-```
+> [!warning]
+> It is not recommended to use unsigned integer in most cases as they are not [CLS-Compliant](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bhc3fa7f(v=vs.90)?redirectedfrom=MSDN). They only make sense when you are doing [[Computer Science/Maths/Discrete Maths/Bitwise Operations\|bitwise operations]] or are desperate to take advantage of that extra positive range.
 
 
 </div></div>
