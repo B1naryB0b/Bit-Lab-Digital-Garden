@@ -13,12 +13,12 @@
 These are [[Computer Science/Variables/Variables\|variable]] data types that act as the **building blocks of data structures.** They are chained or allocated in groups to create any of the more complex objects like [[Computer Science/Data Structures/Array\|arrays]] or [[Computer Science/Data Structures/Linked List\|lists]] and many others.
 
 Primitive data structures includes stuff like:
-- Booleans
-- Integers
-- Floats
-- Characters
-- Strings
-- Pointers
+- [[Computer Science/Variables/Booleans\|Booleans]]
+- [[Computer Science/Variables/Integers\|Integers]]
+- [[Computer Science/Variables/Floats\|Floats]]
+- [[Computer Science/Variables/Characters\|Characters]]
+- [[Computer Science/Variables/Strings\|Strings]]
+- [[Computer Science/Variables/Pointers\|Pointers]]
 
 # Non-primitive
 
