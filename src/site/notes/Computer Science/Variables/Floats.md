@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/variables/floats/","tags":["nooblet","beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/variables/floats/","tags":["beginner"]}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/computer-science/variables/variables/#floats" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
 
 # Floats
 
@@ -13,7 +8,7 @@ A floating point number or float, depending on the language, is generally 32 bit
 
 ![floating_point_4_darkcolor.006.webp](/img/user/floating_point_4_darkcolor.006.webp)
 
-This way of storing numbers allows you to reach 7 decimal digits of precision within a massive range using only 32 bits / 4 bytes of [[Computer Science/Hardware/RAM\|memory]].[^2]
+This way of storing numbers allows you to reach 7 decimal digits of precision within a massive range using only 32 bits / 4 bytes of [[Computer Science/Hardware/RAM\|memory]].[^1]
 
 ```csharp
 //These are valid integers (some languages use f suffix to denote floats)
@@ -48,6 +43,7 @@ Range of float: -3.402823E+38 to 3.402823E+38
 Basically an extra long float with double the digits for precision.
 
 
-</div></div>
+# Footnotes
 
-
+[^1]: https://press.rebus.community/programmingfundamentals/chapter/floating-point-data-type/
+[^2]: https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net
