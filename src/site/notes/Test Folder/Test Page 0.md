@@ -20,9 +20,8 @@ This is an example homepage
 >>This is the contents of it
 >Now back to the original one
 
-```ad-note
-This is an admonition
-```
+> [!note]
+> This is an admonition
 
 
 $$
