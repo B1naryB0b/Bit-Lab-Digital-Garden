@@ -3,11 +3,10 @@
 ---
 
 
-```ad-tldr
-A data structure is just a way of storing and organising data so it can be used efficiently. **That's it.**
-
-The difficult of data structures comes from picking the right one for your use case and learning techniques to make the most of the data structure you pick.
-```
+> [!tldr]
+> A data structure is just a way of storing and organising data so it can be used efficiently. **That's it.**
+> 
+> The difficult of data structures comes from picking the right one for your use case and learning techniques to make the most of the data structure you pick.
 
 # Primitive
 
