@@ -18,7 +18,7 @@ If you are unsure, **check out the [[Bit Hubs/Nooblets Guide\|Nooblets Guide]] f
 
 # Looking for something specific?
 
-Use the **search function in the sidebar/header (shortcut is CTRL + K)** and type in what you are looking for, if you are luck it might already be inside the Bit Lab. If what you are looking for is a bit more... wishy washy, a pixel art technique you just can't remember the name of, or Lico? Lisov? Li... something substitution principle. You get the picture, **try using the tags to find what you are looking for.** 
+Use the **search function in the sidebar/header (shortcut is CTRL + K)** and type in what you are looking for, if you are luck it might already be inside the Bit Lab. If what you are looking for is a bit more... wishy washy, a pixel art technique you just can't remember the name of, or Lico? Lisov? Li... something substitution principle. You get the picture, **try using the [[Bit Hubs/Tags\|tags]] to find what you are looking for.** 
 
 ![6870545e71bc06d925988660a0fc61d5.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Images/6870545e71bc06d925988660a0fc61d5.gif)
 
