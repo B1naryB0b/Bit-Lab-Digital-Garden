@@ -30,8 +30,33 @@ If you've made it this far then I hope the section above acts as fair warning to
 
 **I try my best to make the resources here independent of which programming languages you use or what game engine you work in.** This is so that whatever you learn can be applied to a whole range of projects rather than a select few in specific languages and engines. Although there are language and engine specific content, **I recommend starting out with broadly applicable topics** and often provide examples in whichever language best illustrates something.
 
-Here are some of my recommended starting points:
+## Tags
 
-```query
-tag: #nooblet 
-```
+Use the tags to find resources on the stuff you want. The #nooblet tag is your friend.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bit-hubs/tags/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Here are a list of the currently available tags:
+
+#nooblet
+#beginner
+#intermediate
+#advanced
+#unity
+#unreal
+#2D
+#3D 
+
+
+</div></div>
+
+
+Here are some of my recommended starting points:
+- [[Computer Science/Variables/Variables\|Variables]]
+- [[IRL Programming/Documentation/Self-Documenting Code\|Self-Documenting Code]]
+
+
