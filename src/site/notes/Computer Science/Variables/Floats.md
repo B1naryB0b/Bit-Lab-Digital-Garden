@@ -47,7 +47,7 @@ Basically an extra long float with double the digits for precision.
 >I'll do it again
 >-r/dankmemes
 
-Basically an extra extra long float with double a doubles digits of precision. It's only seen an a small number of languages.
+Basically an extra extra long float with double a doubles digits of precision. It's only seen in a small number of languages. God help you if you are in need of this data type.
 # Footnotes
 
 [^1]: https://press.rebus.community/programmingfundamentals/chapter/floating-point-data-type/
