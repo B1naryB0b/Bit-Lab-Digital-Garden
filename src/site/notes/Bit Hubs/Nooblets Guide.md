@@ -40,17 +40,25 @@ Use the tags to find resources on the stuff you want. The #nooblet tag is your f
 
 
 
-Here are a list of the currently available tags:
+# Currently Available Tags
 
+## Difficulty
 #nooblet
 #beginner
 #intermediate
 #advanced
+#wizard
+
+## Tool
 #unity
 #unreal
+
+## Game Type
 #2D
 #3D 
 
+## Misc.
+#unfinished
 
 </div></div>
 
