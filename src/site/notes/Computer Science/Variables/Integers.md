@@ -85,7 +85,7 @@ Range of uint: 0 to 4,294,967,295
 ```
 
 > [!warning]
-> It is not recommended to use unsigned integer in most cases as they are not [CLS-Compliant](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bhc3fa7f(v=vs.90)?redirectedfrom=MSDN). They only make sense when you are doing [[Computer Science/Maths/Discrete Maths/Bitwise Operations\|bitwise operations]] or are desperate to take advantage of that extra positive range.
+> It is not recommended to use unsigned integer in most cases as they are not [CLS-Compliant](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bhc3fa7f(v=vs.90)?redirectedfrom=MSDN). They only make sense when you are doing [[Computer Science/Operators/Bitwise Operators\|bitwise operations]] or are desperate to take advantage of that extra positive range.
 
 # Footnotes
 
