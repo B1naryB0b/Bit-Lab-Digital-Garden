@@ -2,13 +2,22 @@
 {"dg-publish":true,"permalink":"/bit-hubs/tags/"}
 ---
 
-Here are a list of the currently available tags:
+# Currently Available Tags
 
+## Difficulty
 #nooblet
 #beginner
 #intermediate
 #advanced
+#wizard
+
+## Tool
 #unity
 #unreal
+
+## Game Type
 #2D
 #3D 
+
+## Misc.
+#unfinished
