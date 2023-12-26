@@ -11,3 +11,4 @@
 > - Interpereters that translate then execute the translated code.
 > 
 > And many more variations which I can't be bothered to mention.
+
