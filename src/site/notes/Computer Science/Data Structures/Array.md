@@ -75,7 +75,7 @@ In this code we are accessing each number in the array by index. Because we know
 ![Array in Memory.excalidraw.png|1080](/img/user/Excalidraw/Array%20in%20Memory.excalidraw.png)
 
 ## Searching
-
+#unfinished
 
 ## Pushing
 
