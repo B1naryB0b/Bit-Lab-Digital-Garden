@@ -5,7 +5,7 @@
 
 # Bools
 
-A Boolean or bool is a true or false value, sometimes denoted through a 1 or 0, and is used to make logical statements. Normally you can convey this information in 1 bit, however due to practical reasons computers operate in 1 byte chunks so a `bool` is 1 byte in [[Computer Science/Hardware/RAM\|memory]].
+A Boolean or bool is **a true or false value, sometimes denoted through a 1 or 0, and is used to make logical statements.** Normally you can convey this information in 1 bit, however due to practical reasons computers operate in 1 byte chunks so a `bool` is 1 byte in [[Computer Science/Hardware/RAM\|memory]].
 
 For instance you can make conditional statements like the following using logical operators:
 ```csharp
