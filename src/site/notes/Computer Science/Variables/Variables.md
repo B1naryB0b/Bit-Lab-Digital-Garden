@@ -31,9 +31,8 @@ char favouriteLetter = 'Q';
 string password = "password123";
 ```
 
-```ad-danger
-Please never set your password to `password123`, you will get hacked.
-```
+> [!danger]
+> Please never set your password to `password123`, you will get hacked.
 # [[Computer Science/Variables/Pointers\|Pointers]]
 
 ```cpp
