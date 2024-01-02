@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/computer-science/algorithms/sorting/bubble-sort/","tags":["nooblet","beginner","unfinished"]}
 ---
 
-```ad-tldr
-A simple to implement [[Computer Science/Algorithms/Sorting/Sorting Algorithms\|sorting algorithm]] that swaps values until the largest value is found and does another pass in exactly the same way until 2nd, 3rd, 4th etc largest values are found and the list is sorted.
-```
+> [!tldr]
+> A simple to implement [[Computer Science/Algorithms/Sorting/Sorting Algorithms\|sorting algorithm]] that swaps values until the largest value is found and does another pass in exactly the same way until 2nd, 3rd, 4th etc largest values are found and the list is sorted.
 
-A bubble sort is generally considered the simplest type of [[Sorting Algorithms|sorting algorithm]] and works by swapping adjacent elements in an [[Computer Science/Data Structures/Array\|array]] (or [[Computer Science/Data Structures/Linked List\|linked lists]]) until the largest element is at the end of the [[Computer Science/Data Structures/Array\|array]], the largest element is then considered sorted and you start again from the left (beginning or [[Computer Science/Data Structures/Array\|array]]) and swap elements to the right until you find the second largest item. With enough passes you will eventually have a sorted [[Computer Science/Data Structures/Array\|array]] at the end of it.
+A bubble sort is generally considered the simplest type of [[Computer Science/Algorithms/Sorting/Sorting Algorithms\|sorting algorithm]] and works by swapping adjacent elements in an [[Computer Science/Data Structures/Array\|array]] (or [[Computer Science/Data Structures/Linked List\|linked lists]]) until the largest element is at the end of the [[Computer Science/Data Structures/Array\|array]], the largest element is then considered sorted and you start again from the left (beginning or [[Computer Science/Data Structures/Array\|array]]) and swap elements to the right until you find the second largest item. With enough passes you will eventually have a sorted [[Computer Science/Data Structures/Array\|array]] at the end of it.
 
 (Insert diagrams here)
 # Implementation
