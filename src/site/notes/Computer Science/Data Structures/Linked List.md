@@ -9,9 +9,8 @@ A `Linked List` is a set of nodes where each node only points to the memory addr
 
 # Using Linked Lists
 
-```ad-important
-In most cases using `List<T>` in a range of languages will be fairly similar if you aren't adding or removing many elements. However, the benefits of using `LinkedList<T>` or equivalent in your language are that they drastically speed up functions which require adding or removing many elements in a short amount of time, especially since their push and pop times are $O(1)$ rather than $O(n)$ [[Time Complexity|time complexity]] .
-```
+> [!important]
+> In most cases using `List<T>` in a range of languages will be fairly similar if you aren't adding or removing many elements. However, the benefits of using `LinkedList<T>` or equivalent in your language are that they drastically speed up functions which require adding or removing many elements in a short amount of time, especially since their push and pop times are $O(1)$ rather than $O(n)$ [[Computer Science/Complexity/Time Complexity\|time complexity]] .
 
 If your language doesn't support an implementation of linked lists by default you can add it yourself by following the step below.
 ## Node Class
