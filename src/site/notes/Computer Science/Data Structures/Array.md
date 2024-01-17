@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/array/"}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/array/","tags":["unfinished"]}
 ---
 
 An array is a collection of primitive [[Computer Science/Variables/Variables\|variables]] that allows you to use some standard manipulations, on a large group of data. 
