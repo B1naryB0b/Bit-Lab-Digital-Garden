@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/complier/","tags":["beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/complier/","tags":["beginner","unfinished"]}
 ---
 
 **A compiler is a type of computer program that translates between a *source* language and a *target* language.** It's most commonly used to convert [[Computer Science/Source Code\|source code]] into [[Computer Science/Binary\|machine code]] or [[IRL Programming/Programming Languages/Assembly\|assembly]] for your computer to execute, although not always. Some compilers are used to produce code for a different [[Computer Science/Hardware/CPU\|CPU]] architecture or [[Computer Science/Operating Systems/Operating System\|operating system]].
