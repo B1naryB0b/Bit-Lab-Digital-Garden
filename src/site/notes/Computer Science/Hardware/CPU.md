@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/hardware/cpu/"}
+{"dg-publish":true,"permalink":"/computer-science/hardware/cpu/","tags":["unfinished"]}
 ---
 
 
