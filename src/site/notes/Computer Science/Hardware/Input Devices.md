@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/hardware/input-devices/"}
+{"dg-publish":true,"permalink":"/computer-science/hardware/input-devices/","tags":["unfinished"]}
 ---
 
