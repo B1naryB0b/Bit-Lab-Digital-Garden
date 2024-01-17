@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/data-structures/","tags":["beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/data-structures/","tags":["beginner","unfinished"]}
 ---
 
 
