@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/linked-list/"}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/linked-list/","tags":["unfinished"]}
 ---
 
 >[!warning]
-> Not to be confused with a `List` as these are often arrays with a wrapper for fast dynamic resizing. 
+> Not to be confused with a `List` as these are often [[Computer Science/Data Structures/Array\|arrays]] with a wrapper for fast dynamic resizing. 
 
-A `Linked List` is a set of nodes where each node only points to the memory address of the next element on the list.
+A `Linked List` is a set of nodes where each node only points to the [[Computer Science/Hardware/RAM\|memory]] address of the next element on the list.
 
 # Using Linked Lists
 
