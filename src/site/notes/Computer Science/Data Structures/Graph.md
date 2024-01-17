@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/graph/"}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/graph/","tags":["unfinished"]}
 ---
 
