@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irl-programming/documentation/self-documenting-code/","tags":["nooblet","beginner"]}
+{"dg-publish":true,"permalink":"/irl-programming/documentation/self-documenting-code/","tags":["nooblet","beginner","unfinished"]}
 ---
 
 >[!Tldr]
