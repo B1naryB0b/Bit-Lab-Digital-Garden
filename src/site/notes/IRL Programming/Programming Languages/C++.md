@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/irl-programming/programming-languages/c/"}
+{"dg-publish":true,"permalink":"/irl-programming/programming-languages/c/","tags":["unfinished"]}
 ---
 
 > [!tldr]
