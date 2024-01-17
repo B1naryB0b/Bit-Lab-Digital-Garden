@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/irl-programming/programming-languages/assembly/"}
+{"dg-publish":true,"permalink":"/irl-programming/programming-languages/assembly/","tags":["unfinished"]}
 ---
 
