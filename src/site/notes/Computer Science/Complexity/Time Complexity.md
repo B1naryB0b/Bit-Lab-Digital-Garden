@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/complexity/time-complexity/"}
+{"dg-publish":true,"permalink":"/computer-science/complexity/time-complexity/","tags":["unfinished"]}
 ---
 
