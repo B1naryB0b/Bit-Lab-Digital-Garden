@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/variables/variables/","tags":["nooblet"]}
+{"dg-publish":true,"permalink":"/computer-science/variables/variables/","tags":["nooblet","unfinished"]}
 ---
 
 Some programming languages like [[IRL Programming/Programming Languages/Python\|python]] don't need you to declare the data type when you initialise it, although under the hood they still use variable types.
