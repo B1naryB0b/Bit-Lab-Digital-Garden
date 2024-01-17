@@ -40,7 +40,7 @@ Range of float: -3.402823E+38 to 3.402823E+38
 >When two floats love each other very much they combine like something out of an anime.
 >-Me
 
-Basically an extra long float with double the digits for precision.
+Basically an extra long float with double the digits for precision. They offer a 64 bit / 8byte chunk of machine code that encodes 15-16 decimal digits of precision.
 
 ## Decimals
 
