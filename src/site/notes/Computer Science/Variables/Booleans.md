@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/variables/booleans/","tags":["nooblet","beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/variables/booleans/","tags":["nooblet","beginner","unfinished"]}
 ---
 
 
