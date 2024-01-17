@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-logs/void-serpent/dev-log-0-figuring-out-what-the-hell-i-m-making/","tags":["void-serpent"]}
+{"dg-publish":true,"permalink":"/dev-logs/void-serpent/dev-log-0-figuring-out-what-the-hell-i-m-making/","tags":["void-serpent","unfinished"]}
 ---
 
 # Welcome to the Void Serpent devlog!
