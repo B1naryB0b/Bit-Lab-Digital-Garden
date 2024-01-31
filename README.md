@@ -1,7 +1,7 @@
 ![🕹️Bit_Lab_Wide](https://github.com/B1naryB0b/Bit-Lab/assets/35399675/c32f0b23-9b8a-4f4e-a946-f01964e85946)
-![GitHub last commit](https://img.shields.io/github/last-commit/:B1naryB0b/:Bit-Lab)
-![GitHub contributors](https://img.shields.io/github/:variant/:user/:repo)
-![GitHub License](https://img.shields.io/github/license/:user/:repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/https%3A%2F%2Fgithub.com%2FB1naryB0b/https%3A%2F%2Fgithub.com%2FB1naryB0b%2FBit-Lab)
+![GitLab Contributors](https://img.shields.io/gitlab/contributors/https%3A%2F%2Fgithub.com%2FB1naryB0b%2FBit-Lab)
+![GitHub License](https://img.shields.io/github/license/https%3A%2F%2Fgithub.com%2FB1naryB0b/https%3A%2F%2Fgithub.com%2FB1naryB0b%2FBit-Lab)
 
 
 
