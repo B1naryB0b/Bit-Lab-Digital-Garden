@@ -1,6 +1,6 @@
 # Bit Lab
 
-This is a vault of information on **anything game dev**. I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website.
+This is a vault of information on anything game dev. I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website.
 
 Click [here](https://bit-lab.vercel.app/) to be directed to the Bit Lab home page.
 
