@@ -1,6 +1,4 @@
-![image](https://github.com/B1naryB0b/Bit-Lab/assets/35399675/3da50b64-030a-49d2-a919-aaa3f20961d7)
-
-# [Bit Lab](https://bit-lab.vercel.app/)
+![🕹️Bit_Lab_Large](https://github.com/B1naryB0b/Bit-Lab/assets/35399675/e879595e-dcd6-4655-b808-b2165f951e1e)
 
 This is a vault of information on anything game dev. I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website. Its also a home for my dev logs.
 
