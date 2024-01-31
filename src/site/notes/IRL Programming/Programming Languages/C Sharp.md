@@ -14,4 +14,25 @@ In C# lists and [[Computer Science/Data Structures/Linked List\|linked lists]] h
 
 [Stack Overflow: Difference between List and LinkedList](https://stackoverflow.com/questions/4279020/difference-between-listt-and-linkedlistt)
 
+## Explicit Access Modifiers
+
+In C# you can't group access modifiers like you do in some other languages. This makes it a bit longer to write, but means that you won't introduce strange bugs in your code by moving a variable or have to scroll to the top to see which access modifier you are using.
+
+For instance in C++ you can group access modifiers like `public` and `private`.
+```cpp
+public:
+	float distance;
+	float speed;
+
+private:
+	float time;
+```
+
+In C# you are required to explicitly declare the access modifier. Although C# automatically defaults to `private` if you don't provide an access modifier it is **HIGHLY** advised that you write it explicitly to prevent confusion.
+```csharp
+public float distance;
+public float speed;
+
+private float time;
+```
 # Syntax
