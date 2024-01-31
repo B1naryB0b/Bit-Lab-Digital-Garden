@@ -1,15 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="105.000000pt" height="115.000000pt" viewBox="0 0 105.000000 115.000000"
- preserveAspectRatio="xMidYMid meet">
-
-<g transform="translate(0.000000,115.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M0 575 l0 -575 525 0 525 0 0 575 0 575 -525 0 -525 0 0 -575z m629
-461 c28 -25 51 -75 51 -110 0 -56 -89 -59 -134 -5 -34 40 -35 91 -2 124 27 27
-46 25 85 -9z m-71 -338 c-3 -62 -3 -63 -34 -66 -29 -3 -32 0 -37 30 -2 18 -2
-48 1 66 4 29 8 32 39 32 l34 0 -3 -62z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path fill="#ffffff" d="M288 448H64V224h64V160H64c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H288c35.3 0 64-28.7 64-64V384H288v64zm-64-96H448c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64H224c-35.3 0-64 28.7-64 64V288c0 35.3 28.7 64 64 64z"/></svg>
