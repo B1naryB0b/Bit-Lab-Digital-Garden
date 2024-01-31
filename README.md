@@ -1,6 +1,6 @@
-![🕹️Bit_Lab_Large](https://github.com/B1naryB0b/Bit-Lab/assets/35399675/e879595e-dcd6-4655-b808-b2165f951e1e)
+![🕹️Bit_Lab_Wide](https://github.com/B1naryB0b/Bit-Lab/assets/35399675/c32f0b23-9b8a-4f4e-a946-f01964e85946)
 
-This is a vault of information on anything game dev. I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website. Its also a home for my dev logs.
+ This is a vault of information on anything game dev. I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website. Its also a home for my dev logs.
 
 The knowledge repository is built in Obsidian in a Wiki style with links between topics, clear tags, examples and links to exteranl resources.
 
