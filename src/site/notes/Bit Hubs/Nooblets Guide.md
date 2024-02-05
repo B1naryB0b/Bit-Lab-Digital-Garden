@@ -52,6 +52,11 @@ Use the tags to find resources on the stuff you want. The #nooblet tag is your f
 ## Tool
 #unity
 #unreal
+#godot
+#blender
+#maya
+#photoshop
+#audiokinetic
 
 ## Game Type
 #2D
