@@ -28,7 +28,7 @@ private:
 	float time;
 ```
 
-In C# you are required to explicitly declare the access modifier. Although C# automatically defaults to `private` if you don't provide an access modifier it is **HIGHLY** advised that you write it explicitly to prevent confusion.
+In C# you are required to explicitly declare the access modifier. Although C# automatically defaults to `private` if you don't provide an access modifier, it is **HIGHLY** advised that you write it explicitly to prevent confusion.
 ```csharp
 public float distance;
 public float speed;
