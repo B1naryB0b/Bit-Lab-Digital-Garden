@@ -14,6 +14,11 @@
 ## Tool
 #unity
 #unreal
+#godot
+#blender
+#maya
+#photoshop
+#audiokinetic
 
 ## Game Type
 #2D
