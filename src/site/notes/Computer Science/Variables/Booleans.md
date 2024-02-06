@@ -25,3 +25,8 @@ else
 ```output
 Look at how fun programming is!
 ```
+
+
+https://stackoverflow.com/questions/8014161/in-c-how-much-space-does-a-bool-boolean-take-up-is-it-1-bit-1-byte-or-someth
+
+https://www.w3schools.com/cs/cs_booleans.php
