@@ -5,7 +5,7 @@
 A method is **some code that can be called/invoked from any point in a [[Computer Science/Object Oriented Programming/Class\|class]]** by using the name of the method. **A method is associated with a [[Computer Science/Object Oriented Programming/Class\|class]] and is what defines the behaviour of the [[Computer Science/Object Oriented Programming/Class\|class]]** and what actions an [[Computer Science/Object Oriented Programming/Object\|object]] created from the [[Computer Science/Object Oriented Programming/Class\|class]] can perform.
 
 ```ad-warning
-Although the terms method and function are used interchangably they are slightly different in meaning. A method is a set of instructions that are *associated* with and object/class, and a function is a set of instructions that *perform* a task. 
+Although the terms method and function are used interchangably they are slightly different in meaning. A method is a set of instructions that are *associated* with an object/class, and a function is a set of instructions that *perform* a task. 
 
 This means it is possible to write a function outside of a class. So although **all methods are functions, not all functions are methods.**
 ```
