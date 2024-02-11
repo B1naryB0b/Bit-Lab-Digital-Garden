@@ -31,8 +31,7 @@ I'm currently working on #void-serpent so click on the tag to find info related 
 
 # Want to help?
 
->[!info] I would do it for free, but mans gotta eat.
-><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R5R4UB7TL');kofiwidget2.draw();</script>
+The easiest way to help is to donate: <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R5R4UB7TL');kofiwidget2.draw();</script>
 
 I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. I would be more than **open to contributions from individuals from any part of the game dev community**, be it Gameplay Testers, QA folks, YouTube Dev Loggers, AAA Veterans or even a hobbyist who just likes to join game jams. **Everyone is welcome!**
 
