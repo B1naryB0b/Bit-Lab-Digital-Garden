@@ -27,11 +27,11 @@ Use the **search function in the sidebar/header (shortcut is CTRL + K)** and typ
 
 **Check out the devlog section** for any updates on the games I'm currently working on. Many of them have **in-depth technical explanations** of how I went about building a particular feature as well as **resources to build something similar.**
 
-I'm currently working on #void-serpent so click on the tag to find info related to the game.
+I'm currently working on #void-serpent and #shards-of-bone so click on the tag to find info related to these games.
 
 # Want to help?
 
-The easiest way to help is to donate: <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R5R4UB7TL');kofiwidget2.draw();</script>
+The easiest way to help is to buy something, donate or get a membership to support **Bit Lab:** <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R5R4UB7TL');kofiwidget2.draw();</script>
 
 I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. I would be more than **open to contributions from individuals from any part of the game dev community**, be it Gameplay Testers, QA folks, YouTube Dev Loggers, AAA Veterans or even a hobbyist who just likes to join game jams. **Everyone is welcome!**
 
