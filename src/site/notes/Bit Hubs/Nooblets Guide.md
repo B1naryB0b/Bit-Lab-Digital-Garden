@@ -64,6 +64,7 @@ Use the tags to find resources on the stuff you want. The #nooblet tag is your f
 
 ## Dev Logs
 #void-serpent 
+#shards-of-bone
 
 ## Misc.
 #unfinished
