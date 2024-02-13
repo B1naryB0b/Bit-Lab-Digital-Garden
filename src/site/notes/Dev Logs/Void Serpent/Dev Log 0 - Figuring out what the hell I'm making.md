@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/dev-logs/void-serpent/dev-log-0-figuring-out-what-the-hell-i-m-making/","tags":["void-serpent","unfinished"]}
 ---
 
+itch.io: https://b1nary-b0b.itch.io/void-serpent
 # Welcome to the Void Serpent devlog!
 
 I started this devlog waaaaay after I first started because at first this was just meant to be a portfolio piece (which I guess it technically still is) but slowly turned into an actual game project.
