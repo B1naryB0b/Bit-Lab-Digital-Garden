@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/nooblets-guide/"}
+{"dg-publish":true,"permalink":"/bit-hubs/nooblets-guide/","tags":["nooblet"]}
 ---
 
 >[!warning] Warning: There is a trap ahead!
