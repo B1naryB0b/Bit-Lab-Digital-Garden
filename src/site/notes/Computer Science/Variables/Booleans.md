@@ -5,7 +5,7 @@
 
 # Bools
 
-A Boolean or bool is **a true or false value, sometimes denoted through a 1 or 0, and is used to make logical statements.** Normally you can convey this information in 1 bit, however due to practical reasons computers operate in 1 byte chunks so a `bool` is 1 byte in [[Computer Science/Hardware/RAM\|memory]].
+A Boolean or bool is **a true or false value, sometimes denoted through a 1 or 0, and is used to make logical statements.**[^1] Normally you can convey this information in 1 bit, however due to practical reasons computers operate in 1 byte chunks so a `bool` is 1 byte in [[Computer Science/Hardware/RAM\|memory]].[^2]
 
 For instance you can make conditional statements like the following using logical operators:
 ```csharp
@@ -26,7 +26,7 @@ else
 Look at how fun programming is!
 ```
 
+# Footnotes
 
-https://stackoverflow.com/questions/8014161/in-c-how-much-space-does-a-bool-boolean-take-up-is-it-1-bit-1-byte-or-someth
-
-https://www.w3schools.com/cs/cs_booleans.php
+[^1]: https://www.w3schools.com/cs/cs_booleans.php 
+[^2]: https://stackoverflow.com/questions/8014161/in-c-how-much-space-does-a-bool-boolean-take-up-is-it-1-bit-1-byte-or-someth
