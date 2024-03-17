@@ -12,4 +12,5 @@ These are basic mathematical [[Computer Science/Operators/Operators\|operators]]
 | Division       | $x \div y$   | `/`                     | `x / y`  | Division by zero will throw an exception.                                                     |
 | Modulus        | $x \bmod y$  | `%`                     | `x % y`  | Returns remainder of division.                                                                |
 | Exponentiation | $x^y$        | `**`                    | `x ** y` | In [[IRL Programming/Programming Languages/C Sharp\|C#]] , use `Math.Pow(x, y)` for exponentiation as `**` is not a valid operator. |
+
 ^arithmatic-ops
