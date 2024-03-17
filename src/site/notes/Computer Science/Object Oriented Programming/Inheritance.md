@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/inheritance/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/inheritance/","tags":["unfinished","beginner","intermediate"]}
 ---
 
 Inheritance is when one [[Computer Science/Object Oriented Programming/Class\|class]] is derived from another [[Computer Science/Object Oriented Programming/Class\|class]], giving it access to the [[Computer Science/Object Oriented Programming/Methods\|methods]] and [[Computer Science/Variables/Variables\|variables]] of the base [[Computer Science/Object Oriented Programming/Class\|class]].
