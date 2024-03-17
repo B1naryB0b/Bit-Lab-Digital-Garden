@@ -9,7 +9,8 @@ These are [[Computer Science/Operators/Operators\|operators]] that perform logic
 | Logical NOT | $\neg$   | `!`                     | `!x`       | Inverts the boolean value.                    |
 | Logical AND | $\wedge$ | `&&`                    | `x && y`   | Returns true if both operands are true.       |
 | Logical OR  | $\lor$   | `\|\|`                  | `x \|\| y` | Returns true if at least one operand is true. |
-| Logical XOR | $\oplus$ | `^`                     | `x ^ y`    | Returns true if operands are different.       |{ #logical-ops}
+| Logical XOR | $\oplus$ | `^`                     | `x ^ y`    | Returns true if operands are different.       |
+{ #logical-ops}
 
 
 $$
