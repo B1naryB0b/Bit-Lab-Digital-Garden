@@ -12,4 +12,5 @@ These are [[Computer Science/Operators/Operators\|operators]] that compare two v
 | Less than        | $x < y$    | `<`                     | `x < y`  |                           |
 | Greater or equal | $x \geq y$ | `>=`                    | `x >= y` |                           |
 | Less or equal    | $x \leq y$ | `<=`                    | `x <= y` |                           |
+
 ^comparison-ops
