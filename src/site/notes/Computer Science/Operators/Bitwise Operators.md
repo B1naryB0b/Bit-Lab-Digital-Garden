@@ -12,7 +12,8 @@ These are [[Computer Science/Operators/Operators\|operators]] that perform opera
 | Bitwise XOR          | $\oplus$ | `^`                     | `x ^ y`   | Sets each bit to 1 if only one of the bits is 1.                                           |
 | Left Shift           |          | `<<`                    | `x << n`  | Shifts the bits of x to the left by n places.                                              |
 | Right Shift          |          | `>>`                    | `x >> n`  | Shifts the bits of x to the right by n places.                                             |
-| Unsigned Right Shift |          | `>>>`                   | `x >>> n` | Shifts the bits of x to the right by n places (zero fill). Not available in all languages. |{ #bitwise-ops}
+| Unsigned Right Shift |          | `>>>`                   | `x >>> n` | Shifts the bits of x to the right by n places (zero fill). Not available in all languages. |
+{ #bitwise-ops}
 
 
 Note: The "Unsigned Right Shift" operator (`>>>`) is not available in all programming languages and is typically used in languages that have distinct types for signed and unsigned integers. In C#, the right shift operator (`>>`) will maintain the sign bit (sign extension) for signed integers, while for unsigned integers, it will perform a zero-fill right shift.
