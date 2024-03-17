@@ -31,7 +31,8 @@ I'm currently working on #void-serpent and #shards-of-bone so click on the tag t
 
 # Want to help?
 
-The easiest way to help is to buy something, donate or get a membership to support **Bit Lab:** <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+The easiest way to help is to buy something, donate or get a membership to support **Bit Lab:** <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R5R4UB7TL');kofiwidget2.draw();</script>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('bitlab', {
     'type': 'floating-chat',
