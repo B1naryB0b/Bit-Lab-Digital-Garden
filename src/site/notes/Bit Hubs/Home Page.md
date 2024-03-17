@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bit-hubs/home-page/","tags":["gardenEntry"]}
 ---
 
-![🕹️Bit_Lab_Wide.png](/img/user/_Bit%20Lab%20Organisation/%F0%9F%95%B9%EF%B8%8FBit_Lab_Wide.png)
+![🕹️Bit_Lab_Wide.png](/img/user/_Bit%20Lab%20Organisation/Logos%20and%20Banners/%F0%9F%95%B9%EF%B8%8FBit_Lab_Wide.png)
 # Hi, welcome to Bit Lab!
 
 **This is a vault of information on anything game dev.** I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website.
@@ -31,7 +31,15 @@ I'm currently working on #void-serpent and #shards-of-bone so click on the tag t
 
 # Want to help?
 
-The easiest way to help is to buy something, donate or get a membership to support **Bit Lab:** <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R5R4UB7TL');kofiwidget2.draw();</script>
+The easiest way to help is to buy something, donate or get a membership to support **Bit Lab:** <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('bitlab', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. I would be more than **open to contributions from individuals from any part of the game dev community**, be it Gameplay Testers, QA folks, YouTube Dev Loggers, AAA Veterans or even a hobbyist who just likes to join game jams. **Everyone is welcome!**
 
