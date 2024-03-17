@@ -16,5 +16,6 @@ These are operators that assign values to variables. They often use [[Computer S
 | [[Computer Science/Operators/Bitwise Operators\|Bitwise]] OR assign  | $x = x \lor y$   | `\|=`                   | `x \|= y` |                                           |
 | [[Computer Science/Operators/Bitwise Operators\|Bitwise]] XOR assign | $x = x \oplus y$ | `^=`                    | `x ^= y`  |                                           |
 | Left shift assign                         | $x = x << n$     | `<<=`                   | `x <<= n` |                                           |
-| Right shift assign                        | $x = x >> n$     | `>>=`                   | `x >>= n` |                                           |{ #assignment-ops}
+| Right shift assign                        | $x = x >> n$     | `>>=`                   | `x >>= n` |                                           |
+{ #assignment-ops}
 
