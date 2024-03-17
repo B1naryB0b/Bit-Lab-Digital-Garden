@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/computer-science/operators/operators/","tags":["nooblet","unfinished"]}
 ---
 
+```ad-tldr
+Basically all the simple maths and logicky bits that make stuff work.
+```
+
 Operators are a set of symbols that represent a specific mathematical or logical operation. They follow a [[Computer Science/Operators/Operator Precedence\|order of operations]] when the application is being run to determine which operator is executed first and which are next.
 
 ```ad-tip
@@ -109,3 +113,7 @@ Operators are a set of symbols that represent a specific mathematical or logical
 | Unsigned Right Shift |          | `>>>`                   | `x >>> n` | Shifts the bits of x to the right by n places (zero fill). Not available in all languages. |
 
 </div></div>
+
+
+
+https://www.tutorialspoint.com/csharp/csharp_operators.htm
