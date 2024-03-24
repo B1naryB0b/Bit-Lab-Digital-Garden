@@ -16,6 +16,7 @@ Easily search through notes using tags and related notes.
 
 Click [here](https://bit-lab.vercel.app/) to be directed to the Bit Lab home page.
 
-If you want to help out, consider donating: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R4UB7TL)
+If you want to help out, consider donating: 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R4UB7TL)
 
 This site was built using the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden) and deployed on vercel.
