@@ -16,18 +16,18 @@ class Cannon
 {
 	public int damage;
 	
-	void Fire()
+	private void Fire()
 	{
 		CreateCannonBall(damage)
 		ReloadAnimation();
 	}
 	
-	void CreateCannonBall()
+	private void CreateCannonBall()
 	{
 		//Generate a 3D ball and shoot it out, dealing damage
 	}
 	
-	void ReloadAnimation()
+	private void ReloadAnimation()
 	{
 		//Run reload animation
 	}
