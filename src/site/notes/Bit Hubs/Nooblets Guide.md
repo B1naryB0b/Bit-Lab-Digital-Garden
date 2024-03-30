@@ -68,7 +68,9 @@ Use the tags to find resources on the stuff you want. The #nooblet tag is your f
 
 ## Misc.
 #unfinished
-#testing 
+#testing
+#credits
+
 
 </div></div>
 
