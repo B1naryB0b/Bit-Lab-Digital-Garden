@@ -44,9 +44,11 @@ The easiest way to help is to buy something, donate or get a membership to suppo
 
 I (and anyone willing to join me on my torturous quest) will try to cover a range of topics in game development and adjacent fields. I would be more than **open to contributions from individuals from any part of the game dev community**, be it Gameplay Testers, QA folks, YouTube Dev Loggers, AAA Veterans or even a hobbyist who just likes to join game jams. **Everyone is welcome!**
 
-**If you are interested in helping out, [[Bit Hubs/Contact\|contact me]].** 
+Any contribution no matter how small, will be recorder in the [[Bit Hubs/Contributors\|contributors]] list.
 
-I am planning to setup a discord around the Bit Lab if there are more users and contributors, so you might see a discord link here soon.
+**If you are interested in helping out directly, [[Bit Hubs/Contact\|contact me]].** 
+
+I am planning to setup a discord around the Bit Lab if there are more users and [[Bit Hubs/Contributors\|contributors]], so you might see a discord link here soon.
 
 # Spot a mistake?
 
