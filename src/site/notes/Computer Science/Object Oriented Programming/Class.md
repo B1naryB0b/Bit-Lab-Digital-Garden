@@ -6,7 +6,7 @@
 Stole this amazing explanation from [iAmDev](https://www.youtube.com/@IAmDevtube/videos) on YouTube. I would highly recommend their channel for new devs, especially [this short playlist on OOP.](https://www.youtube.com/playlist?list=PLxvooGgpi4NeugSB4Pk546MXTPmGqPdc4)
 ```
 
-A class is a blueprint/template of the [[Computer Science/Object Oriented Programming/Methods\|methods]] and [[Computer Science/Variables/Variables\|variables]] in a particular [[Computer Science/Object Oriented Programming/Object\|object]]. You can use it to create many [[Computer Science/Object Oriented Programming/Object\|objects]] that [[Computer Science/Object Oriented Programming/Inheritance\|inherit]] some of its properties.
+A class is a blueprint/template of the [[Computer Science/Programming/Methods\|methods]] and [[Computer Science/Variables/Variables\|variables]] in a particular [[Computer Science/Object Oriented Programming/Object\|object]]. You can use it to create many [[Computer Science/Object Oriented Programming/Object\|objects]] that [[Computer Science/Object Oriented Programming/Inheritance\|inherit]] some of its properties.
 
 ```ad-example
 You are trying to build a pirate ship for a video game and need to create a bunch of cannons with similar functionality.
