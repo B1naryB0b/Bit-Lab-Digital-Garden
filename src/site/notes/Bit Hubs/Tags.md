@@ -30,4 +30,5 @@
 
 ## Misc.
 #unfinished
-#testing 
+#testing
+#credits
