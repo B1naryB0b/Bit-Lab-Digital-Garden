@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/programming/parameters-and-arguments/","tags":["unfinished","beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/programming/parameters-and-arguments/","tags":["beginner"]}
 ---
 
 # Parameters 
