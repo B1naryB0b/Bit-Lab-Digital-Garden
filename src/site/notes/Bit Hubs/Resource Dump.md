@@ -34,3 +34,10 @@ https://shadered.org/
 
 https://teamtopologies.com/
 
+https://gamedev.net/
+
+https://www.youtube.com/@thebennybox
+
+https://www.youtube.com/@git-amend
+
+https://learnopengl.com/
