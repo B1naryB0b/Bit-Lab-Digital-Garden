@@ -72,7 +72,7 @@ for (int i = 0; i < numbers.Length; i++)
 
 In this code we are accessing each number in the array by index. Because we know the memory location of the array we just need to go to however many memory locations along depending on the index. When we access `numbers[2]` all we have to do is a single command with constant [[Computer Science/Complexity/Time Complexity\|time complexity]] (or $O(1)$ time), which is `numbers_memory_address + (memory_size * index)`.
 
-![Array in Memory.excalidraw.png|1080](/img/user/Excalidraw/Array%20in%20Memory.excalidraw.png)
+![Array in Memory.excalidraw.png|1080](/img/user/Excalidraw/Data%20Structures/Arrays/Array%20in%20Memory.excalidraw.png)
 
 ## Searching
 #unfinished
@@ -90,7 +90,7 @@ numbers[numbers.Length - 1] = 5;
 
 However, when we push a value to the array, we are forced to move the entire array to a different memory location as the value in that memory location might already be occupied by another piece of data.
 
-![Array Memory Allocation.excalidraw.png|1080](/img/user/Excalidraw/Array%20Memory%20Allocation.excalidraw.png)
+![Array Memory Allocation.excalidraw.png|1080](/img/user/Excalidraw/Data%20Structures/Arrays/Array%20Memory%20Allocation.excalidraw.png)
 
 ## Popping
 
@@ -113,6 +113,6 @@ if (numbers.Length > 0)
 
 Removing an element 
 
-![Array Memory Deallocation.excalidraw.png|1080](/img/user/Excalidraw/Array%20Memory%20Deallocation.excalidraw.png)
+![Array Memory Deallocation.excalidraw.png|1080](/img/user/Excalidraw/Data%20Structures/Arrays/Array%20Memory%20Deallocation.excalidraw.png)
 
 In some languages like [[IRL Programming/Programming Languages/Python\|python]] you can't create arrays without using a library like NumPy.
