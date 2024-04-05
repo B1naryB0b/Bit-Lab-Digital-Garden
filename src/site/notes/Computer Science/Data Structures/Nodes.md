@@ -12,7 +12,7 @@
 Nodes can be used to create larger data structures such as [[Computer Science/Data Structures/Linked List\|linked lists]], [[Computer Science/Data Structures/Graph\|graphs]] and [[Computer Science/Data Structures/Tree\|trees]]. You can traverse these structures by going form one node to another by looking at the nodes they point to.
 
 
-![Node Based Data Structures.excalidraw.png|1080](/img/user/Excalidraw/Node%20Based%20Data%20Structures.excalidraw.png)
+![Node Based Data Structures.excalidraw.png|1080](/img/user/Excalidraw/Data%20Structures/Node%20Based%20Data%20Structures.excalidraw.png)
 
 
 
