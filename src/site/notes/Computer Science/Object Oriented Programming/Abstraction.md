@@ -20,3 +20,6 @@ Abstractions can be used improperly, and in the worst cases they can [[Coupling|
 
 [Code Aesthetic: Abstraction can make your code worse](https://www.youtube.com/watch?v=rQlMtztiAoA)
 ```
+
+
+https://raygun.com/blog/oop-concepts-java/#abstraction
