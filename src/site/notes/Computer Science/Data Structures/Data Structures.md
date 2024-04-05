@@ -57,4 +57,4 @@ These are data structures that are **arranged in a hierarchy where a [[Computer 
 
 For instance in something like the graph shown below its not possible for you to do a single pass (shown in purple) to traverse the entire structure. **You must do multiple passes to search the entire data structure.**
 
-![Non-linear Data Structure (Graph).excalidraw.png](/img/user/Excalidraw/Non-linear%20Data%20Structure%20(Graph).excalidraw.png)
+![Non-linear Data Structure (Graph).excalidraw.png](/img/user/Excalidraw/Data%20Structures/Non-linear%20Data%20Structure%20(Graph).excalidraw.png)
