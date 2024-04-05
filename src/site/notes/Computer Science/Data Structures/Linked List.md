@@ -72,7 +72,7 @@ while current_node:
 # Linked Lists in Memory
 #unfinished 
 
-![Linked List Remove Node.excalidraw.png](/img/user/Excalidraw/Linked%20List%20Remove%20Node.excalidraw.png)
+![Linked List Remove Node.excalidraw.png](/img/user/Excalidraw/Data%20Structures/Linked%20List/Linked%20List%20Remove%20Node.excalidraw.png)
 
-![Linked List Add Node.excalidraw.png](/img/user/Excalidraw/Linked%20List%20Add%20Node.excalidraw.png)
+![Linked List Add Node.excalidraw.png](/img/user/Excalidraw/Data%20Structures/Linked%20List/Linked%20List%20Add%20Node.excalidraw.png)
 
