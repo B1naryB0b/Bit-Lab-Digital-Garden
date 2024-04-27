@@ -6,7 +6,7 @@
 
 A floating point number or float, depending on the language, is generally 32 bits / 4 bytes of [[Computer Science/Binary\|machine code]] used to represent a signed (meaning including negative) decimal number. It gets it's name from the fact that after the sign bit, the next five bits are used to denote the exponent of the number or where the decimal point is, hence floating point. The significand is a sum of fractions where the first bit is $\frac{1}{2}$ and each subsequent bit is half of the one that came before it (e.g. $\frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{1}{16}... \frac{1}{1024}$).
 
-![floating_point_4_darkcolor.006.webp](/img/user/_Bit%20Lab%20Organisation/Images/floating_point_4_darkcolor.006.webp)
+![floating_point_4_darkcolor.006.webp](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/floating_point_4_darkcolor.006.webp)
 
 This way of storing numbers allows you to reach 7 decimal digits of precision within a massive range using only 32 bits / 4 bytes of [[Computer Science/Hardware/RAM\|memory]].[^1]
 
