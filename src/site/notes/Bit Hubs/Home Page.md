@@ -9,19 +9,19 @@
 
 There is lots of gold out there for those that know where to look, but it is often a long and tedious journey to find all of those pockets of gold scattered all over the internet. **From GDC, Brackeys, Code Monkey, Unreal Sensei and many, many more.**
 
-![4ff0c61bfc017dc9106d26464f8b02b4.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Images/4ff0c61bfc017dc9106d26464f8b02b4.gif)
+![4ff0c61bfc017dc9106d26464f8b02b4.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/4ff0c61bfc017dc9106d26464f8b02b4.gif)
 
 # Where to start?
 
 If you are unsure, **check out the [[Bit Hubs/Nooblets Guide\|Nooblets Guide]] for an idea of what to do.** It contains links to many of the most useful info for budding new developers. Otherwise, just poking around in the sidebar or the graph view is also a great place to start.
 
-![4b3e5c9c42fb5da2b2ef1e0ba1312103.gif|1080](/img/user/_Bit%20Lab%20Organisation/Images/4b3e5c9c42fb5da2b2ef1e0ba1312103.gif)
+![4b3e5c9c42fb5da2b2ef1e0ba1312103.gif|1080](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/4b3e5c9c42fb5da2b2ef1e0ba1312103.gif)
 
 # Looking for something specific?
 
 Use the **search function in the sidebar/header (shortcut is CTRL + K)** and type in what you are looking for, if you are luck it might already be inside the Bit Lab. If what you are looking for is a bit more... wishy washy, a pixel art technique you just can't remember the name of, or Lico? Lisov? Li... something substitution principle. You get the picture, **try using the [[Bit Hubs/Tags\|tags]] to find what you are looking for.** 
 
-![6870545e71bc06d925988660a0fc61d5.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Images/6870545e71bc06d925988660a0fc61d5.gif)
+![6870545e71bc06d925988660a0fc61d5.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/6870545e71bc06d925988660a0fc61d5.gif)
 
 # Looking for updates on my games?
 
