@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/computer-science/programming/parameters-and-arguments/","tags":["beginner"]}
 ---
 
+```ad-tldr
+![9lg1H.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/9lg1H.png)
+
+https://stackoverflow.com/questions/156767/whats-the-difference-between-an-argument-and-a-parameter
+```
+
 # Parameters 
 
 **Parameters are input [[Computer Science/Variables/Variables\|variables]] for our [[Computer Science/Programming/Methods\|function]]/[[Computer Science/Programming/Methods\|method]].**  When we create a [[Computer Science/Programming/Methods\|method]], we also tell it what parameters it should use. These act like **placeholder values of the same type**, so when an argument is passed to the [[Computer Science/Programming/Methods\|method]] it uses the real values given by the argument when running the [[Computer Science/Programming/Methods\|method]].
