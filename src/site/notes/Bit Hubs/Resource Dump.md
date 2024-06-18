@@ -41,3 +41,15 @@ https://www.youtube.com/@thebennybox
 https://www.youtube.com/@git-amend
 
 https://learnopengl.com/
+
+https://benui.ca/
+
+https://games-stats.com
+
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators?redirectedfrom=MSDN#null-conditional-operators--and-
+
+https://www.gameuidatabase.com/index.php
+
+https://www.gamedatacrunch.com/
+
+https://github.com/ssloy/tinyrenderer/wiki
