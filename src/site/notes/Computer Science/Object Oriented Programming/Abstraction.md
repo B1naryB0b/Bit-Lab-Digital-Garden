@@ -5,7 +5,7 @@
 ```ad-tldr
 Abstraction:
 - Hides complexity from the user
-- Reduces code repetition adn dependencies
+- Reduces code repetition and dependencies
 - Allows for overriding implemention details 
 - Partial abstaction with [[Computer Science/Object Oriented Programming/Abstract Classes\|abstract classes]]
 - Total abstraction with [[Computer Science/Object Oriented Programming/Interfaces\|interfaces]] 
