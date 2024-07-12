@@ -8,7 +8,7 @@ https://www.youtube.com/shorts/rLxjsk3NAKM
 title: Wikipedia Article
 Torvalds sarcastically quipped about the name _git_ (which means "unpleasant person" in [British English](https://en.wikipedia.org/wiki/British_English "British English") slang): "I'm an egotistical bastard, and I name all my projects after myself. First '[Linux](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel")', now 'git'."[31](https://en.wikipedia.org/wiki/Git#cite_note-whythegitname-32)[32](https://en.wikipedia.org/wiki/Git#cite_note-33) The [man page](https://en.wikipedia.org/wiki/Man_page "Man page") describes Git as "the stupid content tracker".[33](https://en.wikipedia.org/wiki/Git#cite_note-34)
 
-The [read-me file](https://en.wikipedia.org/wiki/README "README") of the source code elaborates further:[[34]](https://en.wikipedia.org/wiki/Git#cite_note-35)
+The [read-me file](https://en.wikipedia.org/wiki/README "README") of the source code elaborates further:[34](https://en.wikipedia.org/wiki/Git#cite_note-35)
 
 > "git" can mean anything, depending on your mood.
 > 
@@ -19,3 +19,4 @@ The [read-me file](https://en.wikipedia.org/wiki/README "README") of the source 
 
 The source code for Git refers to the program as "the information manager from hell".
 ```
+
