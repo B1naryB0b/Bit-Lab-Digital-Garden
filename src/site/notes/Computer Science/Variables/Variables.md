@@ -13,7 +13,7 @@ int age = 22;
 # [[Computer Science/Variables/Floats\|Floats]]
 
 ```cpp
-int height = 183.5f;
+float height = 183.5f;
 ```
 # [[Computer Science/Variables/Booleans\|Booleans]]
 
@@ -32,11 +32,17 @@ string password = "password123";
 ```
 
 > [!danger]
-> Please never set your password to `password123`, you will get hacked.
+> Please never set your password to `password123`, you **WILL** get hacked.
 # [[Computer Science/Variables/Pointers\|Pointers]]
 
 ```cpp
 bool* ptr = &canProgramme;
+```
+
+# [[Computer Science/Variables/References\|References]]
+
+```cpp
+
 ```
 # [[Computer Science/Variables/Consts\|Consts]] 
 
