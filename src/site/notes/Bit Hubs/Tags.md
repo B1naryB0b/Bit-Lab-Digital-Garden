@@ -22,7 +22,7 @@
 
 ## Game Type
 #2D
-#3D 
+#3D
 
 ## Dev Logs
 #void-serpent 
