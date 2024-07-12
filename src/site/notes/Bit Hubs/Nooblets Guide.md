@@ -60,7 +60,7 @@ Use the tags to find resources on the stuff you want. The #nooblet tag is your f
 
 ## Game Type
 #2D
-#3D 
+#3D
 
 ## Dev Logs
 #void-serpent 
