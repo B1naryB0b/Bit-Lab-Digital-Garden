@@ -45,3 +45,5 @@ https://docs.unity3d.com/Manual/collider-types-interaction.html
 https://www.gamedeveloper.com/design/designing-game-controls
 
 https://amirsatvat.com/
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-material-expressions-reference?application_version=5.0
