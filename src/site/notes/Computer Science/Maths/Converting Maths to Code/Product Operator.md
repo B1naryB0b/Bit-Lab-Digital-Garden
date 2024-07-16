@@ -57,7 +57,7 @@ for (int i = 0; i < n; i++)
 {
     float hitDamage = x[i];
     
-    product *= CalculateComboScore(sillyStringFuel);
+    product *= CalculateComboScore(hitDamage);
 }
 
 Console.WriteLine("Total Combo Score: " + product);
