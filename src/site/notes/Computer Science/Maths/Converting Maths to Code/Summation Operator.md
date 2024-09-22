@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/computer-science/maths/converting-maths-to-code/summation-operator/","tags":["beginner","intermediate"]}
 ---
 
-You may have seen the following mathematical symbol $\Sigma$ before, also known as the summation operator. For those familiar with the properties of the summation or [[Computer Science/Maths/Converting Maths to Code/Product Operator\|product operator]] you might be familiar with the general form of summation:
+You may have seen the following mathematical symbol $\Sigma$ before, also **known as the summation operator.** For those familiar with the properties of the summation or [[Computer Science/Maths/Converting Maths to Code/Product Operator\|product operator]] you might be familiar with the general form of summation:
 $$
 \begin{align}
 &\sum_{i=0}^{n} x_{i} = x_{1} + x_{2} + x_{3} + \dots + x_{n} \\
@@ -25,7 +25,7 @@ for (int i=0, i<=n, i++)
 }
 ```
 
-However, although this is useful, we don't get a simple case like this all the time. We need to be able to adapt this for different summations. Let's take a look at the example:
+However, although this is useful, **we don't get a simple case like this all the time.** We need to be able to adapt this for different summations. Let's take a look at the example:
 $$
 S = \sum_{i=0}^{10} i = 0 + 1 + 2 + 3 + \dots + 10 = 55
 $$
