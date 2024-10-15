@@ -28,11 +28,21 @@ public class Card
 ```csharp
 class DeckManager
 {
-	struct CardStats 
+	class internal CardStats 
 	{
 		public int cost;
 		public int damage;
 		public int health;
 	}
+
+	public CardStats defaultStats;
+
+	private List<Card> cards = new List<Card(CardStats)>;
+
+	private void DisplayCards() 
+	{
+		//Display defaults 
+	}
+
 }
 ```
