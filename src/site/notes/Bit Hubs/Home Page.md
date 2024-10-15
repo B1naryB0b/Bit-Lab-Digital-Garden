@@ -9,6 +9,8 @@
 
 There is lots of gold out there for those that know where to look, but it is often a long and tedious journey to find all of those pockets of gold scattered all over the internet. **From GDC, Brackeys, Code Monkey, Unreal Sensei and many, many more.**
 
+*Please note this site is WIP and might change a lot especially in these early stages*
+
 ![4ff0c61bfc017dc9106d26464f8b02b4.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/4ff0c61bfc017dc9106d26464f8b02b4.gif)
 
 # Where to start?
@@ -19,15 +21,13 @@ If you are unsure, **check out the [[Bit Hubs/Nooblets Guide\|Nooblets Guide]] f
 
 # Looking for something specific?
 
-Use the **search function in the sidebar/header (shortcut is CTRL + K)** and type in what you are looking for, if you are luck it might already be inside the Bit Lab. If what you are looking for is a bit more... wishy washy, a pixel art technique you just can't remember the name of, or Lico? Lisov? Li... something substitution principle. You get the picture, **try using the [[Bit Hubs/Tags\|tags]] to find what you are looking for.** 
+Use the **search function in the sidebar/header (shortcut is CTRL + K)** and type in what you are looking for, if you are luck it might already be inside the Bit Lab. If what you are searching for is a bit more wishy-washy **try using the [[Bit Hubs/Tags\|tags]] to find what you are looking for. At the very least it will narrow your search.**
 
 ![6870545e71bc06d925988660a0fc61d5.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/6870545e71bc06d925988660a0fc61d5.gif)
 
 # Looking for updates on my games?
 
-**Check out the devlog section** for any updates on the games I'm currently working on. Many of them have **in-depth technical explanations** of how I went about building a particular feature as well as **resources to build something similar.**
-
-I'm currently working on #void-serpent and #shards-of-bone so click on the tag to find info related to these games.
+**Check out the devlog section** for any updates on the games I'm currently working on. I'll put any content related to my work up here for those interested.
 
 # Want to help?
 
