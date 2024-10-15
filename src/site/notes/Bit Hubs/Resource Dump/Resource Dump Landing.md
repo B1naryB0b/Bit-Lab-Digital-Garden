@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/bit-hubs/resource-dump/resource-dump-landing/","tags":["unfinished"]}
 ---
 
-```ad-caution
-These resources have not been sorted yet and might be moved to other parts of the resource dump. If you can't find something here anymore, then it has likely been sorted in one of the other resource pages found here:
-[[Software Resources]]
-[[General Resources]] 
-[[Learning Resources]] 
-[[Database Resources]] 
-```
+>[!warning] 
+>These resources have not been sorted yet and might be moved to other parts of the resource dump. If you can't find something here anymore, then it has likely been sorted in one of the other resource pages found here:
+[[Bit Hubs/Resource Dump/Software Resources\|Software Resources]]
+[[Bit Hubs/Resource Dump/General Resources\|General Resources]] 
+[[Bit Hubs/Resource Dump/Learning Resources\|Learning Resources]] 
+[[Bit Hubs/Resource Dump/Database Resources\|Database Resources]] 
+
 
 https://gamedevbeginner.com
 
@@ -140,3 +140,40 @@ https://medium.com/@lexitrainerph/c-ienumerable-and-ienumerator-an-in-depth-expl
 
 https://jeremybytes.blogspot.com/2022/07/null-conditional-operators-in-c-and.html
 
+https://www.redblobgames.com/
+
+https://impress.games/
+
+https://outscal.notion.site/Game-Dev-Resources-Master-list-1097518e328043c980e86777025bf430
+
+https://www.gamedeveloper.com/production/version-control-effective-use-issues-and-thoughts-from-a-gamedev-perspective
+
+https://www.weglot.com/blog/multilingual-fonts
+
+https://kinematicsoup.com/news/2016/8/9/rrypp5tkubynjwxhxjzd42s3o034o8
+
+https://medium.com/@yixunxing/fork-gui-tutorial-a9dd3c7ee946
+
+https://medium.com/@xavierck/a-short-guide-to-freelance-rates-79de309658ac
+
+https://docs.google.com/document/d/1bkZfa6ICYn5j2LB2NCxEbqtg7Gf-6l3o-c0xlakP5Hw/edit#heading=h.nnpf7hdjmwc0
+
+https://trello.com/w/productionmaterials
+
+https://www.lexaloffle.com/pico-8.php
+
+https://docs.google.com/document/u/0/d/1rDIupep9HG7u6rcsQBHnJ2v1J3TL9ZjpfRrM3OME9Xs/mobilebasic?pli=1
+
+https://linktr.ee/intogames
+
+https://www.kodeco.com/6314-creating-interactive-grass-in-unreal-engine-4
+
+https://evocean.com/products/hansoft/
+
+https://help.steampowered.com/en/faqs/view/0688-7692-4D5A-1935
+
+https://gamedev.stackexchange.com/a/52910
+
+https://gamedev.stackexchange.com
+
+https://techarthub.com/
