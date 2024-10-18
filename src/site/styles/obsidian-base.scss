@@ -8160,8 +8160,9 @@ body {
   .search-input-container input {
     display: block;
     width: 100%;
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 28px;
+    padding-left: 36px;
+    border: 20px solid #000;
   }
   .search-input-clear-button {
     position: absolute;
