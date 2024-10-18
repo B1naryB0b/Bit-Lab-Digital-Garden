@@ -177,3 +177,7 @@ https://gamedev.stackexchange.com/a/52910
 https://gamedev.stackexchange.com
 
 https://techarthub.com/
+
+http://gurneyjourney.blogspot.com/2013/02/digital-gamut-mapping-tool-for-windows.html
+
+https://github.com/SRombauts/UEPlasticPlugin
