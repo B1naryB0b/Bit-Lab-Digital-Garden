@@ -462,7 +462,7 @@ ul.task-list {
 .search-box input {
     width: 100%;
     padding: 10px;
-    border: none;
+    border: 30px solid var(--text-normal);;
     border-radius: 5px;
     font-size: 2rem;
     background-color: var(--background-primary);
