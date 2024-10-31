@@ -15,4 +15,4 @@ This guide is for networking at [[Networking/Games Events\|games events]]:
 
 
 Bonus Tips:
-- Avoid spending all your time with the same person. It's tempting to talk to the same person for the entire event once you've acclimatised to them. Avoid this, try to set a maximum limit to how long you speak to someone, try to naturally break off the conversation so you can make even more connections.
+- **Avoid spending all your time with the same person.** It's tempting to talk to the same person for the entire event once you've acclimatised to them. Avoid this, try to set a maximum limit to how long you speak to someone, try to naturally break off the conversation so you can make even more connections.
