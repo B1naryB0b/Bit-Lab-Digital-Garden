@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/resource-dump-landing/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/resource-dump-landing-sync-conflict-20241128-235209-se-45-ptd/","tags":["unfinished"]}
 ---
 
 >[!warning] 
@@ -346,27 +346,4 @@ https://danielsieger.com/blog/2021/03/27/generating-spheres.html
 
 https://github.com/matheusvilano/PyWwise
 
-https://padlet.com/gamelaxy/conceptartistsguide
-
-https://nothings.org/gamedev/herringbone/
-
-https://www.toptal.com/developers/gitignore/
-
-https://game.ci/
-
-https://unrealcontainers.com/
-
-https://github.com/abarichello/godot-ci
-
-https://github.com/firebelley/godot-export
-
-https://www.youtube.com/playlist?list=PLilenfQGj6CEG6iZ4TQJ10PI7pCWsy1AO
-
-https://github.com/codecrafters-io/build-your-own-x
-
-https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
-
-https://ramonarango.gumroad.com/
-
-https://toolfolio.io/blog/a-color-palette-generator-design
-
+https://www.youtube.com/@Invelord/featured

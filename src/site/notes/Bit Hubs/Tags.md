@@ -19,6 +19,8 @@
 #maya
 #photoshop
 #audiokinetic
+#FMOD
+
 
 ## Game Type
 #2D
