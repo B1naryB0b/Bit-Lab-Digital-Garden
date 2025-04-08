@@ -93,11 +93,11 @@ body {
     --note-icon-fallback: url(/img/default-note-icon.svg);
 
 
-    title-note-icon .cm-s-obsidian > header > h1[data-note-icon="layers-2"]::before,
+/*     title-note-icon .cm-s-obsidian > header > h1[data-note-icon="layers-2"]::before,
     filetree-note-icon .filename[data-note-icon="layers-2"]::before,
     links-note-icon .internal-link[data-note-icon="layers-2"]::before,
     backlinks-note-icon .backlink[data-note-icon="layers-2"]::before {
         background-image: url(/img/layers-2.svg);
-    }
+    } */
 
 }
