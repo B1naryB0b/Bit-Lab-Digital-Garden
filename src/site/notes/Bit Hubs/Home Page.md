@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/home-page/","pinned":true,"tags":["gardenEntry"],"noteIcon":"layers-2"}
+{"dg-publish":true,"permalink":"/bit-hubs/home-page/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
 ![Bit Lab Wide.png](/img/user/_Bit%20Lab%20Organisation/Logos%20and%20Banners/Bit%20Lab%20Wide.png)
