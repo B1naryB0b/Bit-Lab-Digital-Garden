@@ -79,7 +79,11 @@ body {
     --note-icon-2: url(/img/tree-2.svg);
     --note-icon-3: url(/img/tree-3.svg);
     --note-icon-fallback: url(/img/default-note-icon.svg);
+
+    
+    
 }
+
 
 /* Apply Stroke to All Note Icons */
 .note-icon svg {
@@ -88,33 +92,9 @@ body {
     fill: none; /* Ensures only the stroke is visible */
 }
 
-/* If Note Icons Are Background Images */
-.note-icon {
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-}
-
-/* Individual Note Icon Styles */
-.note-icon-1 {
-    background-image: var(--note-icon-1);
-}
-
-.note-icon-2 {
-    background-image: var(--note-icon-2);
-}
-
-.note-icon-3 {
-    background-image: var(--note-icon-3);
-}
-
-/* Add a fallback icon */
-.note-icon::before {
-    content: "";
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-    background-image: var(--note-icon-fallback);
+.title-note-icon::before,
+.filetree-note-icon::before,
+.links-note-icon::before,
+.backlinks-note-icon::before {
+    stroke: #ff6600 !important;
 }
