@@ -1,16 +1,8 @@
 body {
     /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-
 
     .toc {
         padding-right: 5px;
@@ -69,10 +61,6 @@ body {
         margin-right: 24px;
     }
 
-    .search-text {
-        /* Additional styling if needed */
-    }
-
     .content {
         max-width: 900px;
         margin: auto;
@@ -86,22 +74,47 @@ body {
         }
     }
 
-
+    /* Define Note Icons */
     --note-icon-1: url(/img/layers-2.svg);
     --note-icon-2: url(/img/tree-2.svg);
     --note-icon-3: url(/img/tree-3.svg);
     --note-icon-fallback: url(/img/default-note-icon.svg);
+}
 
-    .note-icon-1 {
-        color: #ff6600;
-        stroke: #ff6600;
-    }
+/* Apply Stroke to All Note Icons */
+.note-icon svg {
+    stroke: #ff6600 !important;
+    stroke-width: 2px;
+    fill: none; /* Ensures only the stroke is visible */
+}
 
-/*     title-note-icon .cm-s-obsidian > header > h1[data-note-icon="layers-2"]::before,
-    filetree-note-icon .filename[data-note-icon="layers-2"]::before,
-    links-note-icon .internal-link[data-note-icon="layers-2"]::before,
-    backlinks-note-icon .backlink[data-note-icon="layers-2"]::before {
-        background-image: url(/img/layers-2.svg);
-    } */
+/* If Note Icons Are Background Images */
+.note-icon {
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
 
+/* Individual Note Icon Styles */
+.note-icon-1 {
+    background-image: var(--note-icon-1);
+}
+
+.note-icon-2 {
+    background-image: var(--note-icon-2);
+}
+
+.note-icon-3 {
+    background-image: var(--note-icon-3);
+}
+
+/* Add a fallback icon */
+.note-icon::before {
+    content: "";
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: var(--note-icon-fallback);
 }
