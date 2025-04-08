@@ -93,9 +93,8 @@ body {
     --note-icon-fallback: url(/img/default-note-icon.svg);
 
     .note-icon {
-        color: #ff6600; /* Changes the stroke color */
+        stroke: #ff6600;
     }
-      
 
 /*     title-note-icon .cm-s-obsidian > header > h1[data-note-icon="layers-2"]::before,
     filetree-note-icon .filename[data-note-icon="layers-2"]::before,
