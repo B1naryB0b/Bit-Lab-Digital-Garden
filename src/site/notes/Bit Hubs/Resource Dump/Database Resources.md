@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/database-resources/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/database-resources/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 Steam market stats:

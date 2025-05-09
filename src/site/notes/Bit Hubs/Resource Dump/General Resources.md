@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/general-resources/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/general-resources/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 Conferences:

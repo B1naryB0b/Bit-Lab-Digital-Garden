@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/software-resources/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/software-resources/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
-# [[IRL Programming/Integrated Development Environments\|IDEs]] 
+# [[Software Development/Integrated Development Environments\|IDEs]] 
 
-Visual Studio (Free [[IRL Programming/Integrated Development Environments\|IDE]]):
+Visual Studio (Free [[Software Development/Integrated Development Environments\|IDE]]):
 https://visualstudio.microsoft.com/
 
-JetBrains (Licensed [[IRL Programming/Integrated Development Environments\|IDE]] Suite):
+JetBrains (Licensed [[Software Development/Integrated Development Environments\|IDE]] Suite):
 https://www.jetbrains.com/
 
-SHADERed (Opensource Shader [[IRL Programming/Integrated Development Environments\|IDE]]):
+SHADERed (Opensource Shader [[Software Development/Integrated Development Environments\|IDE]]):
 https://shaderd.org/
 https://github.com/dfranx/SHADERed
 
