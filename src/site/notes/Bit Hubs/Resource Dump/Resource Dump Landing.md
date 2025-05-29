@@ -9,6 +9,7 @@
 [[Bit Hubs/Resource Dump/Learning Resources\|Learning Resources]] 
 [[Bit Hubs/Resource Dump/Database Resources\|Database Resources]] 
 
+![[Base Test.base]]
 
 https://gamedevbeginner.com
 
@@ -552,4 +553,42 @@ https://www.localizedirect.com/
 https://www.localizor.com/
 
 https://www.padcrafter.com/index.php?templates=Controller+Scheme+1
+
+https://youtu.be/OX_6_bKpP9g?si=H41hpC6IThPaRV_x
+
+https://ikrima.dev/
+
+https://docs.google.com/document/d/1yas3_SnxndxK2FaEsmwl89pVV2nKPxJWaX2zuHlM8N8/edit?tab=t.0#heading=h.lwi1aifxenep
+
+https://techartaid.com/tutorials/
+
+http://www.chrisevans3d.com/pub_blog/
+
+https://www.alanzucconi.com/tutorials/
+
+https://simonschreibt.de/gat/renderhell/
+
+https://www.ronja-tutorials.com/
+
+https://www.famitsu.com/news/201910/16184681.html
+
+https://youtu.be/_ZSFRWJCUY4?si=d4glkiA1zf_yv9HA
+
+https://lettucemeet.com/
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/viewport-modes-in-unreal-engine?application_version=5.1
+
+https://calvinatorrtech.art.blog/
+
+https://blueprintue.com/
+
+https://globalgamesalliance.com/
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/fbx-static-mesh-pipeline-in-unreal-engine
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/asset-metadata-in-unreal-engine
+
+https://lxjk.github.io/2019/10/01/How-to-Make-Tools-in-U-E.html
+
+https://www.youtube.com/watch?v=ovpiYkYFlPM
 
