@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/contact/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/bit-hubs/contact/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 I'd love to hear from you! Whether you have a question, comment, or just want to say hello, feel free to reach out.

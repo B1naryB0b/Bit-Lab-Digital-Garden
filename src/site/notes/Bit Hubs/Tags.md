@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/tags/"}
+{"dg-publish":true,"permalink":"/bit-hubs/tags/","noteIcon":"1"}
 ---
 
 # Currently Available Tags

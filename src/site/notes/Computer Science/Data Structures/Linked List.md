@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/linked-list/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/linked-list/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 >[!warning]

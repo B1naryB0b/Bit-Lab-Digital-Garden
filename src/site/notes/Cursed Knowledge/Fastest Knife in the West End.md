@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursed-knowledge/fastest-knife-in-the-west-end/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/cursed-knowledge/fastest-knife-in-the-west-end/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 ```ad-cite

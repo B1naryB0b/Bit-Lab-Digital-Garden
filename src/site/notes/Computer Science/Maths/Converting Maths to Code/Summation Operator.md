@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/maths/converting-maths-to-code/summation-operator/","tags":["beginner","intermediate"]}
+{"dg-publish":true,"permalink":"/computer-science/maths/converting-maths-to-code/summation-operator/","tags":["beginner","intermediate"],"noteIcon":"1"}
 ---
 
 You may have seen the following mathematical symbol $\Sigma$ before, also **known as the summation operator.** For those familiar with the properties of the summation or [[Computer Science/Maths/Converting Maths to Code/Product Operator\|product operator]] you might be familiar with the general form of summation:

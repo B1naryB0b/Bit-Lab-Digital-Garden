@@ -9,7 +9,6 @@
 [[Bit Hubs/Resource Dump/Learning Resources\|Learning Resources]] 
 [[Bit Hubs/Resource Dump/Database Resources\|Database Resources]] 
 
-![[Base Test.base]]
 
 https://gamedevbeginner.com
 
@@ -592,3 +591,14 @@ https://lxjk.github.io/2019/10/01/How-to-Make-Tools-in-U-E.html
 
 https://www.youtube.com/watch?v=ovpiYkYFlPM
 
+https://asher.gg/create-fast-and-usable-volumetric-cloud-fog/
+
+https://www.artstation.com/blogs/dominiquebuttiens/Y3ja/unreal-engine-pbr-value-checker-20
+
+https://mathworld.wolfram.com/Gauss-SeidelMethod.html
+
+https://github.com/MirzaBeig/Post-Processing-Wireframe-Outlines/tree/main
+
+https://docs.google.com/spreadsheets/u/0/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/htmlview#
+
+https://www.youtube.com/@blackedoutk

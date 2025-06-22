@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-development/tool-development/tool-development-cycle/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/game-development/tool-development/tool-development-cycle/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 >**"Tools live longer than games"**
@@ -53,7 +53,7 @@ I would **recommend putting a time limit on yourself for completing a tool** (un
 
 This is the part many new tool developers skip. **Not documenting is a cardinal sin** and the punishment is that no one will be able to use your tool, not even you, 6 months from now.
 
-All tools should have, **at the bare minimum, a [[IRL Programming/Documentation/README\|README]] file** with some explanation for:
+All tools should have, **at the bare minimum, a [[Software Development/Documentation/README\|README]] file** with some explanation for:
 - What the tool is for
 - How to use it (give an example if possible)
 - Which version of your game engine it is for

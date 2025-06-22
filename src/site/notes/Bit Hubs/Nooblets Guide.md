@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/nooblets-guide/","tags":["nooblet"]}
+{"dg-publish":true,"permalink":"/bit-hubs/nooblets-guide/","tags":["nooblet"],"noteIcon":"1"}
 ---
 
 >[!warning] Warning: There is a trap ahead!
@@ -79,6 +79,6 @@ Use the tags to find resources on the stuff you want. The #nooblet tag is your f
 
 Here are some of my recommended starting points:
 - [[Computer Science/Variables/Variables\|Variables]]
-- [[IRL Programming/Documentation/Self-Documenting Code\|Self-Documenting Code]]
+- [[Software Development/Documentation/Self-Documenting Code\|Self-Documenting Code]]
 
 

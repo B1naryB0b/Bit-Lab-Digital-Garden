@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/algorithms/sorting/bubble-sort/","tags":["nooblet","beginner","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/algorithms/sorting/bubble-sort/","tags":["nooblet","beginner","unfinished"],"noteIcon":"1"}
 ---
 
 > [!tldr]
@@ -10,7 +10,7 @@ A bubble sort is generally considered the simplest type of [[Computer Science/Al
 (Insert diagrams here)
 # Implementation
 
-This is an [[Computer Science/Algorithms/Sorting/Bubble Sort#Full Implementation\|implementation]] in [[IRL Programming/Programming Languages/C Sharp\|C#]] the most important part of which is the bubble sort algorithm itself, that is comprised of a nested for loops that check the two adjacent elements in the array and swaps them if the first term is larger. 
+This is an [[Computer Science/Algorithms/Sorting/Bubble Sort#Full Implementation\|implementation]] in [[Software Development/Programming Languages/C Sharp\|C#]] the most important part of which is the bubble sort algorithm itself, that is comprised of a nested for loops that check the two adjacent elements in the array and swaps them if the first term is larger. 
 
 It then repeats this process for all unsorted term (a bubble sort pass) until it reaches the end of the array and another element has been sorted. The outer loop repeats the bubble sort pass until the array is populated with sorted elements.
 

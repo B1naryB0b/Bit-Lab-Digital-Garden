@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/class/","tags":["beginner","intermediate","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/class/","tags":["beginner","intermediate","unfinished"],"noteIcon":"1"}
 ---
 
 ```ad-info

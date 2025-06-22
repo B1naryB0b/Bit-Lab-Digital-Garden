@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/programming/methods/","tags":["beginner","intermediate","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/programming/methods/","tags":["beginner","intermediate","unfinished"],"noteIcon":"1"}
 ---
 
 A method is **some code that can be called/invoked from any point in a [[Computer Science/Object Oriented Programming/Class\|class]]** by using the name of the method. **A method is associated with a [[Computer Science/Object Oriented Programming/Class\|class]] and is what defines the behaviour of the [[Computer Science/Object Oriented Programming/Class\|class]]** and what actions an [[Computer Science/Object Oriented Programming/Object\|object]] created from the [[Computer Science/Object Oriented Programming/Class\|class]] can perform.

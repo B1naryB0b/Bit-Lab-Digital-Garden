@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/maths/converting-maths-to-code/product-operator/","tags":["beginner","intermediate"]}
+{"dg-publish":true,"permalink":"/computer-science/maths/converting-maths-to-code/product-operator/","tags":["beginner","intermediate"],"noteIcon":"1"}
 ---
 
 The product operator denoted with the mathematical symbol $\Pi$ is similar to the [[Computer Science/Maths/Converting Maths to Code/Summation Operator\|summation operator]], but instead of summing elements, it multiplies them. The general form of the product operator is:

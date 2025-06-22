@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/variables/integers/","tags":["beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/variables/integers/","tags":["beginner"],"noteIcon":"1"}
 ---
 
 # Ints
@@ -16,7 +16,7 @@ int averageAge = 35.4
 int averageTestScore = 14/20
 ```
 
-For instance in [[IRL Programming/Programming Languages/C Sharp\|C#]] or [[IRL Programming/Programming Languages/Java\|Java]] an `int` can represent values in the range:
+For instance in [[Software Development/Programming Languages/C Sharp\|C#]] or [[Software Development/Programming Languages/Java\|Java]] an `int` can represent values in the range:
 ```csharp
 int max = int.MaxValue;
 int min = int.MinValue;
@@ -26,7 +26,7 @@ Console.WriteLine($"Range of int: {min:N0} to {max:N0}");
 Range of int: -2,147,483,648 to 2,147,483,647
 ```
 
-For some languages the size of an `int` is determined by the [[Computer Science/Complier\|compiler]] such as with C++ or is machine dependent like in Swift. There are even some languages like [[IRL Programming/Programming Languages/Python\|Python]] where there is no limit on the range of integers it can store.[^1]
+For some languages the size of an `int` is determined by the [[Computer Science/Complier\|compiler]] such as with C++ or is machine dependent like in Swift. There are even some languages like [[Software Development/Programming Languages/Python\|Python]] where there is no limit on the range of integers it can store.[^1]
 
 ## Short
 

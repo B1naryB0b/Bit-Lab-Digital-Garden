@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/contributors/","tags":["credits"]}
+{"dg-publish":true,"permalink":"/bit-hubs/contributors/","tags":["credits"],"noteIcon":"1"}
 ---
 
 # Become a Contributor

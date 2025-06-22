@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursed-knowledge/arm-bones-cross/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/cursed-knowledge/arm-bones-cross/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 You forearm bones are crossed when your hands face downwards.

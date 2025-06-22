@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/operators/operators/","tags":["nooblet","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/operators/operators/","tags":["nooblet","unfinished"],"noteIcon":"1"}
 ---
 
 ```ad-tldr
@@ -27,7 +27,7 @@ Operators are a set of symbols that represent a specific mathematical or logical
 | Multiplication | $x \times y$ | `*`                     | `x * y`  |                                                                                               |
 | Division       | $x \div y$   | `/`                     | `x / y`  | Division by zero will throw an exception.                                                     |
 | Modulus        | $x \bmod y$  | `%`                     | `x % y`  | Returns remainder of division.                                                                |
-| Exponentiation | $x^y$        | `**`                    | `x ** y` | In [[IRL Programming/Programming Languages/C Sharp\|C#]] , use `Math.Pow(x, y)` for exponentiation as `**` is not a valid operator. |
+| Exponentiation | $x^y$        | `**`                    | `x ** y` | In [[Software Development/Programming Languages/C Sharp\|C#]] , use `Math.Pow(x, y)` for exponentiation as `**` is not a valid operator. |
 
 </div></div>
 

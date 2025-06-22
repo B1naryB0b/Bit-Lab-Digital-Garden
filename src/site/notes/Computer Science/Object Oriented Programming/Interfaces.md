@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/interfaces/","tags":["unfinished","intermediate"]}
+{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/interfaces/","tags":["unfinished","intermediate"],"noteIcon":"1"}
 ---
 
 Interfaces are contracts that tell you what a [[Computer Science/Object Oriented Programming/Class\|class]] does when you reference it.

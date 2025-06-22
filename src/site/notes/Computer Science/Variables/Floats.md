@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/variables/floats/","tags":["beginner","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/variables/floats/","tags":["beginner","unfinished"],"noteIcon":"1"}
 ---
 
 # Floats
@@ -21,7 +21,7 @@ float plancksConstant = 6.62607015E-34f; //You lose 1 decimal digit of accuracy
 float thisIsNotAFloat = "This is not a float";
 ```
 
-For instance in [[IRL Programming/Programming Languages/C Sharp\|C#]] and [[IRL Programming/Programming Languages/Java\|Java]] a `float` can represent values in the range:
+For instance in [[Software Development/Programming Languages/C Sharp\|C#]] and [[Software Development/Programming Languages/Java\|Java]] a `float` can represent values in the range:
 
 ```csharp
 float max = float.MaxValue;

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/programming/parameters-and-arguments/","tags":["beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/programming/parameters-and-arguments/","tags":["beginner"],"noteIcon":"1"}
 ---
 
 ```ad-tldr

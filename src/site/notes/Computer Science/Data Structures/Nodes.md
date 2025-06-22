@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/nodes/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/nodes/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 > [!tldr]

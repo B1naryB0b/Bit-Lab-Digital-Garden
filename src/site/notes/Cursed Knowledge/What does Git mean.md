@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursed-knowledge/what-does-git-mean/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/cursed-knowledge/what-does-git-mean/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 https://www.youtube.com/shorts/rLxjsk3NAKM

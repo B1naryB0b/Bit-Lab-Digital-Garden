@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/encapsulation/","tags":["unfinished","beginner"]}
+{"dg-publish":true,"permalink":"/computer-science/object-oriented-programming/encapsulation/","tags":["unfinished","beginner"],"noteIcon":"1"}
 ---
 
 Encapsulation is the practice of grouping [[Computer Science/Variables/Variables\|variables]] and [[Computer Science/Programming/Methods\|methods]] inside a [[Computer Science/Object Oriented Programming/Class\|class]] in a way that restricts direct access to some components of an [[Computer Science/Object Oriented Programming/Object\|object]]. It is used to prevent accidental interference and misuse of the [[Computer Science/Programming/Methods\|methods]] and data.

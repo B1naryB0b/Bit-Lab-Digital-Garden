@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/hardware/computer-component-basics/","tags":["nooblet","beginner","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/hardware/computer-component-basics/","tags":["nooblet","beginner","unfinished"],"noteIcon":"1"}
 ---
 
 > [!info]

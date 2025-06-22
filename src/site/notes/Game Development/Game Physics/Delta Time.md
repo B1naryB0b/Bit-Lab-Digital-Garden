@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-development/game-physics/delta-time/","tags":["unfinished","beginner"]}
+{"dg-publish":true,"permalink":"/game-development/game-physics/delta-time/","tags":["unfinished","beginner"],"noteIcon":"1"}
 ---
 
 Delta time is the name given to the time between frames in a game. It's used to calculate any time dependent interactions inside a game.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/algorithms/searching/linear-search/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/algorithms/searching/linear-search/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 A linear search simply iterates through every element in a [[Computer Science/Data Structures/Data Structures#Linear\|linear data structure]]. For instance:

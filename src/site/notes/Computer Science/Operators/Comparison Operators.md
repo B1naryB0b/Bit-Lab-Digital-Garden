@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/operators/comparison-operators/","tags":["nooblet","beginner","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/operators/comparison-operators/","tags":["nooblet","beginner","unfinished"],"noteIcon":"1"}
 ---
 
 These are [[Computer Science/Operators/Operators\|operators]] that compare two values and return a [[Computer Science/Variables/Booleans\|Boolean]] result.

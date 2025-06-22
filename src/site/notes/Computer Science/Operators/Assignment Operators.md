@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/operators/assignment-operators/","tags":["nooblet","beginner","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/operators/assignment-operators/","tags":["nooblet","beginner","unfinished"],"noteIcon":"1"}
 ---
 
 These are operators that assign values to variables. They often use [[Computer Science/Operators/Bitwise Operators\|bitwise]] or [[Computer Science/Operators/Arithmetic Operators\|arithmetic operators]] during assignment. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-development/game-physics/colliders/","tags":["unfinished","beginner"]}
+{"dg-publish":true,"permalink":"/game-development/game-physics/colliders/","tags":["unfinished","beginner"],"noteIcon":"1"}
 ---
 
 Colliders are the boundaries the game engine uses for detecting if two objects are in contact or overlapping each other. 

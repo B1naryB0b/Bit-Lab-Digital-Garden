@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/operators/bitwise-operators/","tags":["beginner","intermediate","unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/operators/bitwise-operators/","tags":["beginner","intermediate","unfinished"],"noteIcon":"1"}
 ---
 
 These are [[Computer Science/Operators/Operators\|operators]] that perform operations on the binary representations of integers and return an integer result.

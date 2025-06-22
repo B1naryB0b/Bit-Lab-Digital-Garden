@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-development/cameras/camera-shake/","tags":["beginner","intermediate","2D","3D","unfinished"]}
+{"dg-publish":true,"permalink":"/game-development/cameras/camera-shake/","tags":["beginner","intermediate","2D","3D","unfinished"],"noteIcon":"1"}
 ---
 
 This page was inspired by a GDC talk on the topic.

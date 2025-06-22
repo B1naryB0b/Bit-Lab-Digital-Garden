@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-development/game-jams/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/game-development/game-jams/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 Game jams, inspired by jamming in music, are game making marathons that can be anywhere from 1 hour to multiple months with the gold standard for a game jam being the 48 hr long weekend game jam.

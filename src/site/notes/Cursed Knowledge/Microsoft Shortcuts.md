@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursed-knowledge/microsoft-shortcuts/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/cursed-knowledge/microsoft-shortcuts/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 I promise that this is not going to mess with your computer. It's just deeply disturbing.

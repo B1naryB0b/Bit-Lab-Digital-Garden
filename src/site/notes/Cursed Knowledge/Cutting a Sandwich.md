@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursed-knowledge/cutting-a-sandwich/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/cursed-knowledge/cutting-a-sandwich/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 If you do have the address of any of these individuals, please let me know so I can explain to them that just because something isn't a war crime, doesn't mean they should do it.

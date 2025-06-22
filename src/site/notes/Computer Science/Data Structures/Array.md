@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-science/data-structures/array/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/computer-science/data-structures/array/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 An array is a collection of primitive [[Computer Science/Variables/Variables\|variables]] that allows you to use some standard manipulations, on a large group of data. 
@@ -115,4 +115,4 @@ Removing an element
 
 ![Array Memory Deallocation.excalidraw.png|1080](/img/user/Excalidraw/Data%20Structures/Arrays/Array%20Memory%20Deallocation.excalidraw.png)
 
-In some languages like [[IRL Programming/Programming Languages/Python\|python]] you can't create arrays without using a library like NumPy.
+In some languages like [[Software Development/Programming Languages/Python\|python]] you can't create arrays without using a library like NumPy.

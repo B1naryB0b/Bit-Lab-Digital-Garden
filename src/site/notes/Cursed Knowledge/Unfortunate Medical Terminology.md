@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursed-knowledge/unfortunate-medical-terminology/","tags":["unfinished"]}
+{"dg-publish":true,"permalink":"/cursed-knowledge/unfortunate-medical-terminology/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 ```ad-cite
