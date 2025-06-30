@@ -602,3 +602,11 @@ https://github.com/MirzaBeig/Post-Processing-Wireframe-Outlines/tree/main
 https://docs.google.com/spreadsheets/u/0/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/htmlview#
 
 https://www.youtube.com/@blackedoutk
+
+https://polyhaven.com/hdris
+
+https://freestylized.com/
+
+https://www.figma.com/design/2VWdO2fJdJCBF27W0DZ88B/Game-Pitch-Examples---Templates?node-id=0-1&p=f
+
+

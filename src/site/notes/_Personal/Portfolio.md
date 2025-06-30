@@ -40,4 +40,5 @@ Below are some of my soft and hard skills as well as the technologies I've used 
 >- Experience writing documentation, plans and post mortems
 >- Can work in an agile team
 
+### Projects
 
