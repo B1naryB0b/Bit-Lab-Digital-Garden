@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Bit Hubs/Portfolio.md\"","permalink":"/bit-hubs/portfolio/","hide":true,"hideInGraph":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Bit Hubs/Portfolio.md","permalink":"/bit-hubs/portfolio/","hide":true,"hideInGraph":true,"noteIcon":"1"}
 ---
 
 # Cuneyd Kahraman
