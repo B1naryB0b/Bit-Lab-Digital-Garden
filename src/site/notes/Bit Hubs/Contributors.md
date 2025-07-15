@@ -29,7 +29,8 @@ This is a list of everyone who has contributed to the creation of Bit Lab, be it
 
 ## Writers
 
-**Cuneyd Kahraman**
+**Cuneyd Kahraman - Any**
+**Ryna - Audio**
 ## Members
 
 ## Donators
