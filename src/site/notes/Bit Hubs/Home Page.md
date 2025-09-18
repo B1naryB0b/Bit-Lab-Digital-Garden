@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/bit-hubs/home-page/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
-![Bit Lab Wide.png](/img/user/_Bit%20Lab%20Organisation/Logos%20and%20Banners/Bit%20Lab%20Wide.png)
 # Hi, welcome to Bit Lab!
 
 **This is a vault of information on anything game dev.** I'm hoping to make this the birth place of a community focused on bringing together the vast amounts of game development resources onto a single, easy to navigate, easy to understand, website.
