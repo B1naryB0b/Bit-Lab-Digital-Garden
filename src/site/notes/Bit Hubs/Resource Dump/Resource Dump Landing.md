@@ -874,3 +874,7 @@ https://youtu.be/W3aieHjyNvw?si=V9a07DCkrr3adJCh
 https://overthewire.org/wargames/
 
 https://www.steamgriddb.com
+
+https://thenounproject.com/
+
+https://noblesteedgames.com/blog/a-handy-guide-to-graphical-assets-on-your-steam-store-page/
