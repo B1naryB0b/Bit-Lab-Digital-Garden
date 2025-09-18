@@ -23,6 +23,12 @@ body {
         }
     }
 
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 15px;
+    }
+
     .backlinks {
         flex: 1;
         margin-top: 10px;
@@ -74,27 +80,13 @@ body {
         }
     }
 
-    /* Define Note Icons */
-    --note-icon-1: url(/img/layers-2.svg);
+   --note-icon-1: url(/img/file.svg);
     --note-icon-2: url(/img/tree-2.svg);
     --note-icon-3: url(/img/tree-3.svg);
     --note-icon-fallback: url(/img/default-note-icon.svg);
 
-    
-    
+    .foldername {
+      margin-left: 8px;
+    }
 }
 
-
-/* Apply Stroke to All Note Icons */
-.note-icon svg {
-    stroke: #ff6600 !important;
-    stroke-width: 2px;
-    fill: none; /* Ensures only the stroke is visible */
-}
-
-.title-note-icon::before,
-.filetree-note-icon::before,
-.links-note-icon::before,
-.backlinks-note-icon::before {
-    stroke: #ff6600 !important;
-}
