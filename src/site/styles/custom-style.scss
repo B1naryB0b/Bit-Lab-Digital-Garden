@@ -1,8 +1,13 @@
+@import url('https://fonts.jetbrains.com/css?family=JetBrains+Mono:100,200,300,400,500,600,700,800');
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+    --font-default: "JetBrains Mono", monospace;
+    --font-monospace: "JetBrains Mono", monospace;
+    font-weight: 100;
 
     .toc {
         padding-right: 5px;
@@ -18,8 +23,17 @@ body {
         }
 
         & > ol {
-            padding-left: 0;
+            padding-left: 10px;
             border-left: none;
+        }
+
+        a {
+          text-align: center !important;
+          padding: 2px 8px
+        }
+
+        li::before {
+          display: none;
         }
     }
 
@@ -80,7 +94,7 @@ body {
         }
     }
 
-   --note-icon-1: url(/img/file.svg);
+    --note-icon-1: url(/img/box.svg);
     --note-icon-2: url(/img/tree-2.svg);
     --note-icon-3: url(/img/tree-3.svg);
     --note-icon-fallback: url(/img/default-note-icon.svg);
@@ -91,6 +105,16 @@ body {
 
     .filetree-sidebar {
       width: 300px;
+    }
+
+    .filename {
+      text-align: center !important;
+      padding: 2px 8px;
+    }
+
+    .notelink i,
+    .filename::before {
+      margin-right: 8px;
     }
 }
 
