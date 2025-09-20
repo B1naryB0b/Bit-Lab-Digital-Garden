@@ -8,7 +8,7 @@
 
 There is lots of gold out there for those that know where to look, but it is often a long and tedious journey to find all of those pockets of gold scattered all over the internet. **From GDC, Brackeys, Code Monkey, Unreal Sensei and many, many more.**
 
-*Please note this site is WIP and might change a lot especially in these early stages*
+>[!warning] Please note this site is WIP and might change a lot especially in these early stages
 
 ![4ff0c61bfc017dc9106d26464f8b02b4.gif|1080px](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/4ff0c61bfc017dc9106d26464f8b02b4.gif)
 

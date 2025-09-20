@@ -7,11 +7,9 @@
 
 Hi, I'm a UK based game developer looking for challenging projects to work on. I'm open to working on any interesting technical project with a preference for gameplay, tooling and, infrastructure and DevOps for games.
 
-
-
 ### Skills
 
-Below are some of my soft and hard skills as well as the technologies I've used for a range of projects, both at a studio but mostly for my own projects.
+Below are some of my soft and hard skills as well as the technologies I've used for a range of projects, both at a studio and for my own personal projects.
 
 ![Screenshot 2025-06-16 164446-edit.png|1080](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Screenshot%202025-06-16%20164446-edit.png)
 
@@ -31,11 +29,12 @@ Below are some of my soft and hard skills as well as the technologies I've used 
 >DevOps
 >- Perforce (+Unreal Game Sync), Plastic SCM, Git (GUI/CLI)
 >- Docker, Self-hosted Perforce (P4D, P4V, P4ADMIN etc)
->- Bash scripting, linux terminal & OpenSSH
+>- Bash scripting, Linux terminal & OpenSSH
+>- Uptime monitoring, Alerts
 >---
 >General
 >- VS/VS Code, Rider, ReSharper, Cursor
->- OpenAI API, Local LLMs
+>- RESTful APIs, Local/API LLMs, Webhooks
 
 > [!summary]- Organisation Skills
 >- Wiki knowledge repositories in Notion and Obsidian
@@ -44,8 +43,6 @@ Below are some of my soft and hard skills as well as the technologies I've used 
 >- Can work in an agile team
 
 ### Projects
-
-
 
 ##### Graviton
 **Lunaboot Studios**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/resource-dump-landing/","tags":["unfinished"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/bit-hubs/resource-dump/resource-dump-landing-sync-conflict-20250920-224928-se-45-ptd/","tags":["unfinished"],"noteIcon":"1"}
 ---
 
 >[!warning] 
@@ -877,3 +877,34 @@ https://www.steamgriddb.com
 
 https://thenounproject.com/
 
+https://noblesteedgames.com/blog/a-handy-guide-to-graphical-assets-on-your-steam-store-page/
+
+https://mobaxterm.mobatek.net/
+
+https://portal.perforce.com/s/
+
+https://www.perforce.com/
+
+https://itch.io/app
+
+https://etcher.balena.io/
+
+https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.58.zip
+
+https://www.blackmagicdesign.com/products/davinciresolve
+
+https://tailscale.com/
+
+https://obsproject.com/
+
+https://obsproject.com/welcome
+
+https://support.logi.com/hc/en-ca/articles/360059641133-Onboard-Memory-Manager
+
+https://www.plasticscm.com/
+
+https://www.audiokinetic.com/en/
+
+https://www.audiokinetic.com/en/wwise/overview
+
+https://help.figma.com/hc/en-us

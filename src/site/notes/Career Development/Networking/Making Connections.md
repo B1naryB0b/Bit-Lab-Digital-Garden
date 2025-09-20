@@ -16,3 +16,4 @@ This guide is for networking at [[Career Development/Networking/Games Events\|ga
 
 Bonus Tips:
 - **Avoid spending all your time with the same person.** It's tempting to talk to the same person for the entire event once you've acclimatised to them. Avoid this, try to set a maximum limit to how long you speak to someone, try to naturally break off the conversation so you can make even more connections.
+- **Have a QR code with your contact details at the ready.** This will make giving people your info much smoother and reduce the time spent faffing around trying to find your details. One of the best ways to do this is to either replace your lock screen wallpaper with it, or get a widget that can display it on your home screen.
