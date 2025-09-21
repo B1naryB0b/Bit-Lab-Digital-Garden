@@ -31,7 +31,7 @@ Contributions: Integrated audio and art, handled animations, created visual effe
 **Gobsmacked: Gameplay Programmer (Unreal)**
 Contributions: Enemy/player ragdoll system, player controller, skeleton based attack system, weapon pickup/throwing, documentation for other team members.
 ### Education
-**Physics B.Sc. King’s College London (KCL):** 
+**Physics BSc King’s College London (KCL):** 
 Graduated with a diploma.
 
 **References are available on request or check my LinkedIn recommendations: https://www.linkedin.com/in/cuneyd-kahraman/.**
