@@ -8,6 +8,7 @@
 I'm a generalist programmer capable of writing gameplay, tooling and pipeline code, as well as managing DevOps for larger teams. Prior to working at a studio I had been a hobbyist game developer for around 10 years and have a working understanding of most areas of game development.
 
 **Looking for my portfolio? You can find it [[_Personal/Portfolio\|here]].**
+
 <div class="page-break" style="page-break-before: always;"></div>
 ### Experience
 **Lunaboot Studios: Graviton (UE5/Unity)**
