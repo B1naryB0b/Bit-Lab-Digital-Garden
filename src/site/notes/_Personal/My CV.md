@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bit Hubs/CV.md","permalink":"/bit-hubs/cv/","hide":true,"hideInGraph":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Bit Hubs/My CV.md","permalink":"/bit-hubs/my-cv/","hide":true,"hideInGraph":true,"noteIcon":"1"}
 ---
 
 # **Cuneyd Kahraman**
