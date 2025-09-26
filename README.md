@@ -11,11 +11,15 @@ This site was built using the [Digital Garden Obsidian Plugin](https://github.co
 ## Requirements
 
 **Hardware**
+
 1 CPU or vCPU
+
 2GB RAM
+
 300MB STORAGE
 
 **Software**
+
 Node.js 20.x
 
 ## Installation
