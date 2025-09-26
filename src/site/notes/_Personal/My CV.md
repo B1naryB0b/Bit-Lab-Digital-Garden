@@ -11,6 +11,13 @@ I'm a generalist programmer capable of writing gameplay, tooling and pipeline co
 >[!question] Looking for my portfolio? You can find it [[_Personal/Portfolio\|here]].
 <div class="page-break" style="page-break-before: always;"></div>
 
+### Contact Me
+
+**Phone No.:** (+44)7933254806
+**Email:** cuneydkahraman@gmail.com 
+**LinkedIn:** https:www.linkedin.com/in/cuneyd-kahraman/ 
+**Located:** London, UK
+
 ### Skills
 
 Below is a list of my technical abilities and core competencies, gained from experience across game development, enterprise software, and personal projects.

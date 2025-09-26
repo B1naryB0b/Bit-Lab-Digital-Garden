@@ -942,3 +942,9 @@ https://games.london/gamechanger/
 https://buildcores.com/
 
 https://socialrails.com/
+
+https://www.youtube.com/watch?v=CceepU1vIKo
+
+https://www.youtube.com/@nobs_code
+
+https://www.zygotebody.com/
