@@ -6,7 +6,7 @@ There is lots of gold out there for those that know where to look, but it is oft
 
 As part of this I am open sourcing the code behind the site in the hopes that it will make more accessible and conducive for building a community.
 
-This site was built using the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden), although the plugin or Obsidian are not required to host a local version of the site.
+This site was built using the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden), although neither the plugin or Obsidian are required to host a local version of the site.
 
 ## Requirements
 
