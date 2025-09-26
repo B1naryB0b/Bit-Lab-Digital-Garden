@@ -8,6 +8,8 @@ As part of this I am open sourcing the code behind the site in the hopes that it
 
 This site was built using the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden), although neither the plugin or Obsidian are required to host a local version of the site.
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'R5R4UB7TL');kofiwidget2.draw();</script> 
+
 ## Requirements
 
 **Hardware**
