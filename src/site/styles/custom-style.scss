@@ -1,12 +1,12 @@
-@import url('https://fonts.jetbrains.com/css?family=JetBrains+Mono:100,200,300,400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=JetBrains Mono');
 
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    --font-default: "JetBrains Mono", monospace;
-    --font-monospace: "JetBrains Mono", monospace;
+    --font-default: "JetBrains Mono";
+    --font-monospace: "JetBrains Mono";
     font-weight: 100;
 
     .toc {
