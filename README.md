@@ -35,4 +35,4 @@ For cloud deployments, use the guide here: [Digital Garden Obsidian Plugin](http
 
 ## Configuration
 
-If you'd like to customise and configure this further you can learn how to do so here: [https://dg-docs.ole.dev/]()
+If you'd like to customise and configure this further you can learn how to do so here: [https://dg-docs.ole.dev/](https://dg-docs.ole.dev/)
