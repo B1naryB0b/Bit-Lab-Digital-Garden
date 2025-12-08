@@ -26,7 +26,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 **Tools: UE5/Unity/Perforce/Git**
 
 <video width="1920" height="1080" controls>  
-  <source src="./Demo Traversal.mp4" type="video/mp4">  
+  <source src="_Personal/_Demo Reels/Demo Traversal.mp4" type="video/mp4">  
 Your browser does not support the video tag.  
 </video>
 
