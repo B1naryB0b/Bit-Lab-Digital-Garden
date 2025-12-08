@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bit Hubs/Portfolio.md","permalink":"/bit-hubs/portfolio/","hide":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Bit Hubs/Portfolio.md","permalink":"/bit-hubs/portfolio/","hide":true,"hideInGraph":true,"noteIcon":"1"}
 ---
 
 # **Cuneyd Kahraman**
@@ -19,7 +19,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 
 ### Projects
 
-> [!note] You can find my other projects on [itch.io](https://b1nary-b0b.itch.io/)
+> [!note] You can find my other projects on [itch.io](https://b1nary-b0b.itch.io/) and [GitHub](https://github.com/B1naryB0b)
 
 ##### Graviton
 **Lunaboot Studios**

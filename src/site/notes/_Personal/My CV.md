@@ -22,7 +22,7 @@ I'm a generalist programmer capable of writing gameplay, tooling and pipeline co
 
 Below is a list of my technical abilities and core competencies, gained from experience across game development, enterprise software, and personal projects.
 
-![Screenshot 2025-06-16 164446-edit.png|1080](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Screenshot%202025-06-16%20164446-edit.png)
+![logo-banner.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/logo-banner.png)
 
 > [!check]- Core Skills
 >- Working with multi-disciplinary teams (10+ people)
@@ -40,18 +40,19 @@ Below is a list of my technical abilities and core competencies, gained from exp
 >DevOps & Infrastrucute
 >- Perforce, Plastic SCM, Git (GUI/CLI)
 >- Docker, Self-hosted Perforce (P4D, P4V, P4ADMIN etc)
->- Bash scripting, Python, Linux terminal commands & OpenSSH
+>- Bash, PowerShell, Python, Linux terminal commands & OpenSSH
 >- Uptime monitoring, Alerts
 >- Cloud compute providers (Digital Ocean & AWS)
 >- VPN hosting (OpenVPN, WireGuard & Tailscale)
 >---
 >General
->- VS/VS Code, Rider, ReSharper, Cursor
+>- VS/VS Code, JetBrains Suite, ReSharper, Cursor
 >- RESTful APIs, Local/API LLMs, Webhooks
 
 > [!summary]- Organisation Skills
 >- Wiki knowledge repositories in Notion and Obsidian
 >- Kanban and project tracking in Trello, Miro and GitHub Projects
+>- I can use the Office Suite (With Macros) and GSuite tools
 >- Experience writing documentation, plans and post mortems
 >- Can work in an agile team
 
@@ -94,6 +95,7 @@ Graduated with a diploma.
 - Building custom keyboards
 - Writing (I'm currently working on a novel you can read [here](https://read-the-forest.vercel.app/))
 - Badminton
+- Video games
 - Cats
 
 **References are available on request or check my LinkedIn recommendations: https://www.linkedin.com/in/cuneyd-kahraman/.**
