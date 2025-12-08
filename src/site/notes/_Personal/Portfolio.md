@@ -6,7 +6,7 @@
 **Game Programming & DevOps**
 
 ### About Me
-Hi, I'm a UK based game developer looking for challenging projects to work on. I'm open to working on any interesting technical project with a preference for gameplay, tooling and, infrastructure and DevOps for games.
+Hi, I'm a UK based game developer looking for challenging projects to work on. I'm open to working on any interesting technical project with a preference for gameplay, systems, tooling and, infrastructure and DevOps for games.
 
 >[!question] Looking for my CV? You can find it [[_Personal/My CV\|here]].
 
@@ -25,8 +25,9 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 **Lunaboot Studios**
 **Tools: UE5/Unity/Perforce/Git**
 
-
-
+![[Demo Traversal.mp4]]
+![[Demo Time Slow.mp4]]
+![[Demo Level.mp4]]
 ##### Shards of Bone
 **Solo Project**
 **Tools: Unity/Git**
