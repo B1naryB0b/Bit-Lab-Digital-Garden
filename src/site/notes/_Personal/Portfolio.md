@@ -27,7 +27,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 
 
 ```video
-src: video/Demo Traversal.mp4
+src: site/video/Demo Traversal.mp4
 controls: true
 width: 100%
 ```
