@@ -25,10 +25,12 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 **Lunaboot Studios**
 **Tools: UE5/Unity/Perforce/Git**
 
-<video width="1920" height="1080" controls>  
-  <source src="_Personal/_Demo Reels/Demo Traversal.mp4" type="video/mp4">  
-Your browser does not support the video tag.  
-</video>
+
+```video
+src: /videos/Demo Traversal.mp4
+controls: true
+width: 100%
+```
 
 ![[Demo Traversal.mp4]]
 ![[Demo Time Slow.mp4]]
