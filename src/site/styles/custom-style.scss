@@ -43,6 +43,20 @@ body {
       border-radius: 15px;
     }
 
+    .video-container {
+      width: 100%;
+      margin: 1em 0;
+      border-radius: 15px;
+      overflow: hidden;
+
+      video {
+        width: 100%;
+        height: auto;
+        display: block;
+        background-color: var(--background-primary);
+      }
+    }
+
     .backlinks {
         flex: 1;
         margin-top: 10px;
