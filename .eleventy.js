@@ -151,46 +151,6 @@ module.exports = function (eleventyConfig) {
           const code = token.content.trim();
           return `<div class="transclusion">${md.render(code)}</div>`;
         }
-        if (token.info === "video") {
-          const code = token.content.trim();
-          const lines = code.split("\n").filter(line => line.trim());
-          let src = "";
-          let controls = true;
-          let autoplay = false;
-          let loop = false;
-          let muted = false;
-          let width = "";
-          let poster = "";
-
-          for (const line of lines) {
-            const [key, ...valueParts] = line.split(":");
-            const value = valueParts.join(":").trim();
-            const keyTrimmed = key.trim().toLowerCase();
-
-            if (keyTrimmed === "src") src = value;
-            else if (keyTrimmed === "controls") controls = value.toLowerCase() !== "false";
-            else if (keyTrimmed === "autoplay") autoplay = value.toLowerCase() === "true";
-            else if (keyTrimmed === "loop") loop = value.toLowerCase() === "true";
-            else if (keyTrimmed === "muted") muted = value.toLowerCase() === "true";
-            else if (keyTrimmed === "width") width = value;
-            else if (keyTrimmed === "poster") poster = value;
-          }
-
-          const attrs = [];
-          if (controls) attrs.push("controls");
-          if (autoplay) attrs.push("autoplay");
-          if (loop) attrs.push("loop");
-          if (muted) attrs.push("muted");
-          if (width) attrs.push(`style="width: ${width}; max-width: 100%;"`);
-          if (poster) attrs.push(`poster="${poster}"`);
-
-          return `<div class="video-container">
-            <video ${attrs.join(" ")}>
-              <source src="${src}" type="video/${src.split(".").pop()}">
-              Your browser does not support the video tag.
-            </video>
-          </div>`;
-        }
         if (token.info.startsWith("ad-")) {
           const code = token.content.trim();
           const parts = code.split("\n")
@@ -254,30 +214,6 @@ module.exports = function (eleventyConfig) {
         };
       md.renderer.rules.image = (tokens, idx, options, env, self) => {
         const imageName = tokens[idx].content;
-        const src = tokens[idx].attrGet("src");
-
-        const videoExtensions = ['.mp4', '.webm', '.ogg', '.mov', '.avi'];
-        const isVideo = videoExtensions.some(ext => src && src.toLowerCase().endsWith(ext));
-
-        if (isVideo) {
-          const [fileName, ...widthAndMetaData] = imageName.split("|");
-          const lastValue = widthAndMetaData[widthAndMetaData.length - 1];
-          const lastValueIsNumber = !isNaN(lastValue);
-          const width = lastValueIsNumber ? `${lastValue}px` : "100%";
-
-          const attrs = ['controls'];
-          if (width) {
-            attrs.push(`style="width: ${width}; max-width: 100%;"`);
-          }
-
-          return `<div class="video-container">
-            <video ${attrs.join(" ")}>
-              <source src="${src}" type="video/${src.split(".").pop()}">
-              Your browser does not support the video tag.
-            </video>
-          </div>`;
-        }
-
         //"image.png|metadata?|width"
         const [fileName, ...widthAndMetaData] = imageName.split("|");
         const lastValue = widthAndMetaData[widthAndMetaData.length - 1];
@@ -586,7 +522,6 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("src/site/img");
-  eleventyConfig.addPassthroughCopy("src/site/videos");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
