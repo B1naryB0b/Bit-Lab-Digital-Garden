@@ -27,9 +27,15 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 
 <iframe src="https://www.youtube.com/embed/4JZPQ9T5hMw" title="Graviton Demo Reel" style="width: 100%; aspect-ratio: 16/9;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-##### Shards of Bone
-**Solo Project**
-**Tools: Unity/Git**
+**Contributions:**
+- Worked on the Unity prototype of the game including a level editor
+- Hosted Perforce Helix Core SCM on an Ubuntu server (+UE5 integration)
+- Managed build pipeline and distribution for custom UE5 engine fork
+- Co-developed the rotator system for gravity manipulation in Unity/UE5
+- Wrote documentation and onboarding guides for non-programmers
+- Setup alerting and remote monitoring for our Perforce server
+
+**I talked about the [[Talks and Workshops/Gravitons Universal Gravity System\|development of the gravity system of Graviton]] at the Unreal Meetup at the Epic Games offices in London**
 
 
 
