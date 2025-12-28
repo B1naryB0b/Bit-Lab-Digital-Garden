@@ -11,6 +11,8 @@ I'm a generalist programmer capable of writing gameplay, systems, tooling and pi
 >[!question] Looking for my portfolio? You can find it [[_Personal/Portfolio\|here]].
 <div class="page-break" style="page-break-before: always;"></div>
 
+> [!example] My bio site with links to everything is [here](https://bio.site/cuneyd.kahraman)
+
 ### Contact Me
 
 **Phone No.:** (+44)7933254806
