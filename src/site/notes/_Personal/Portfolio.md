@@ -25,7 +25,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 **Lunaboot Studios**
 **Tools: UE5/Unity/Perforce/Git**
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/4JZPQ9T5hMw" title="Graviton Demo Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4JZPQ9T5hMw" title="Graviton Demo Reel" style="width: 100%; aspect-ratio: 16/9;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Shards of Bone
 **Solo Project**
