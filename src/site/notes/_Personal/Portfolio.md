@@ -37,7 +37,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 - Wrote documentation and onboarding guides for non-programmers
 - Setup alerting and remote monitoring for our Perforce server
 
-**I talked about the [[Talks and Workshops/Gravitons Universal Gravity System\|development of the gravity system of Graviton]] at the Unreal Meetup at the Epic Games offices in London**
+**I talked about the [[Talks and Workshops/Gravitons Universal Gravity System Slides\|development of the gravity system of Graviton]] at the Unreal Meetup at the Epic Games offices in London**
 
 
 

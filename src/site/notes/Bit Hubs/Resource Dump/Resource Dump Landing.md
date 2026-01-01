@@ -1027,3 +1027,28 @@ https://knexator.github.io/time-genres/
 
 https://signaturely.com/online-signature/
 
+https://www.mixamo.com/#/
+
+https://trenchbroom.github.io/
+
+https://www.materialmaker.org/
+
+https://www.cakewalk.com/
+
+https://sfbgames.itch.io/chiptone
+
+https://dust3d.org/
+
+https://www.tracktion.com/
+
+https://defold.com/
+
+https://www.aseprite.org/
+
+https://github.com/aseprite/aseprite
+
+https://www.image-line.com/
+
+https://azagaya.itch.io/laigter
+
+https://www.blockbench.net/

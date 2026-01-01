@@ -36,20 +36,32 @@ Below is a list of my technical abilities and core competencies, gained from exp
 >Game Dev
 >- Unity, UE5, Godot
 >- Custom Editors/Tooling, Engine Forking, Profiling & Optimisation
->- C#, C++, BluePrints, GDScript, Python  
 >- Blender, UE5 Material graphs, Unity ProBuilder & Shader graphs
+>---
+>Languages & Scripting
+> - C# - Proficient (3 Years)
+> - C++ - Intermediate (1 Year)
+> - Python - Intermediate (1 Year)
+> - Bash - Intermediate (1 Year)
+> - PowerShell - Entry-level (1 Year)
+> - BluePrints - Entry-level (1 Year)
+> - GDScript - Entry-level (1 Year)
+> - Golang - Entry-level (6 months)
+> - English - Pretty OK (23 Years)
 >---
 >DevOps & Infrastrucute
 >- Perforce, Plastic SCM, Git (GUI/CLI)
->- Docker, Self-hosted Perforce (P4D, P4V, P4ADMIN etc)
->- Bash, PowerShell, Python, Linux terminal commands & OpenSSH
->- Uptime monitoring, Alerts
+>- Self-hosted Perforce (P4D, P4V, P4ADMIN etc)
+>- Linux terminal commands & OpenSSH
+>- Uptime monitoring, Alerts, n8n automations
 >- Cloud compute providers (Digital Ocean & AWS)
->- VPN hosting (OpenVPN, WireGuard & Tailscale)
+>- VPN hosting (OpenVPN, WireGuard & Tailscale), Networking
+>- Build scripts, VENV, GitHub Actions
+>- Docker, VM/VPS, Hyper-V, Proxmox 
 >---
 >General
->- VS/VS Code, JetBrains Suite, ReSharper, Cursor
->- RESTful APIs, Local/API LLMs, Webhooks
+>- VS/VS Code, JetBrains Suite, ReSharper, Cursor, Claude Code
+>- RESTful APIs, Local/API LLMs, Webhooks, Putty/MobaXterm, WSL
 
 > [!summary]- Organisation Skills
 >- Wiki knowledge repositories in Notion and Obsidian
@@ -61,12 +73,10 @@ Below is a list of my technical abilities and core competencies, gained from exp
 ### Experience
 **Lunaboot Studios: Graviton (UE5/Unity)**
 Contributions:
-- Worked on the Unity prototype of the game including a level editor
-- Hosted Perforce Helix Core SCM on an Ubuntu server (+UE5 integration)
-- Managed build pipeline and distribution for custom UE5 engine fork
-- Co-developed the rotator system for gravity manipulation in Unity/UE5
-- Wrote documentation and onboarding guides for non-programmers
-- Setup alerting and remote monitoring for our Perforce server
+- Co-developed a custom gravity system for a first person puzzle game in UE5, allowing for omnidirectional gravity calculations. The system is multithreaded and spatially partitioned using an octree, I am currently in the process of migrating functionality onto the GPU and generating lookup tables to allow for recalculating gravity in real-time. **I talked about the [[Talks and Workshops/Gravitons Universal Gravity System Slides\|development of the gravity system of Graviton]] at the Unreal Meetup at the Epic Games offices in London.**
+- Deployed a bare metal Perforce Helix Core SCM on an Ubuntu server, allowing for cheaper project storage scaling. The server and any docker services/utilities are accessible via a VPN or SSH tunnel. I've setup uptime monitoring to improve SLI tracking and avoid resource saturation.
+- Have written extensive documentation for setting up and integrating Perforce Helix Core into Unreal Engine and build scripts (in PowerShell) for automating rebuilding the game and custom UE5 engine fork.
+- Worked on the Unity prototype of the game, including the development of an in-game level editor.
 
 **Peak Cyber Institute: Programming Intern (Unity)**
 Contributions: Created an android quiz game for a cyber security training company and launched it on Google Play Store.
@@ -92,7 +102,7 @@ Graduated with a diploma.
 **Activities and societies:** 
 - Creative Writing
 - Game Development
-### Hobbies
+### Hobbies & Interests
 - Homelabbing & PC building
 - Building custom keyboards
 - Writing (I'm currently working on a novel you can read [here](https://read-the-forest.vercel.app/))
