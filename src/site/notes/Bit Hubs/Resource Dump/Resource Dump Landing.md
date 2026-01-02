@@ -1052,3 +1052,7 @@ https://www.image-line.com/
 https://azagaya.itch.io/laigter
 
 https://www.blockbench.net/
+
+https://jamesbinnstech.wordpress.com/
+
+https://wirepair.org/

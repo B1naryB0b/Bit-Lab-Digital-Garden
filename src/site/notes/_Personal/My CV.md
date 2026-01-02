@@ -31,6 +31,7 @@ Below is a list of my technical abilities and core competencies, gained from exp
 >- Strong written and verbal communication with both technical and non-technical team members
 >- Knowledgable in Maths, Physics, Computer Science, IT and general sofware development practices (SOLID, Design Patterns, OOP/Functional programming)
 >- Knowledge of other game development disciplines and production pipelines (Know the basics of 2D & 3D art, Material work, VFX, Animation, Audio etc)
+>- Investor and publisher pitching experience
 
 > [!info]- Software Skills
 >Game Dev
