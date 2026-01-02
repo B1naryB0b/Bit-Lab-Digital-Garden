@@ -57,16 +57,12 @@ The core thesis of the game is that:
 
 ---
 
+<iframe src="https://www.youtube.com/embed/4JZPQ9T5hMw" title="Graviton Demo Reel" style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; overflow: hidden;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 There is no singular time scale, you can slow things down, speed them back up, have them interact with each other or animate at multiple different time scales.
 
-![[Time.mp4|1080]]
-
----
- 
 And there is no specific up or down direction. If you can draw a continuous path from A to B, you can walk it.
  
-![[Traversal.mp4|1080]]
-
 ---
 
 ### How did we get **here?**
@@ -79,7 +75,7 @@ Lets start from the beginning as there were many, many poor decisions made along
 
 We made our first prototype in Unity and got quite far along, we even had a level editor and plans to have a system that allowed us to build the game inside the game. But the more we worked in Unity the more we realised the physics engine being a black box was going to be a problem.
 
-![[Untitled Project.mp4]]
+<iframe src="https://www.youtube.com/embed/is-QEFXtPX4" title="Graviton Unity Prototype" style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; overflow: hidden;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -203,14 +199,22 @@ Instead we ran the above for discrete points in space to create a uniform vector
 ![Vector Field.excalidraw.png|540](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Vector%20Field.excalidraw.png)
 
 ---
+
+Now that we had gotten the easy bit out of the way, we move onto the next phase:
 ### Just optimise it bro
 
 ![can-i-get-a-virus-from-my-potato-pc-v0-bscpyh0w76ec1.webp|540](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/can-i-get-a-virus-from-my-potato-pc-v0-bscpyh0w76ec1.webp)
 
 ---
+
+We started with the low hanging fruit, with most of the computation being in the KNN we used Unreal's `Heapify()` function to build
 ### Heaps for KNN
 
-Heaps allow for **`O(n) + O(k log(n))`** rather than the **`O(n log(n))`** of the naïve solution
+A heap essentially maintains a specific order (in our case a min-heap) where parents are always smaller than their children
+
+By building the heap we could quickly get the shortest distances
+
+Heaps allow for **`O(n) + O(k log(n))`** rather than the **`O(n log(n))`** of the naïve solution of just going through every element in the array
 ![minheap_0.png|600](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/minheap_0.png)
 
 ---
@@ -219,9 +223,11 @@ For very large **`n`** we get:
 **`O(n) + O(k log(n)) ~ O(n)`**
 
 ![0_P5FlnSY6h2Y7hAE5.png|600](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/0_P5FlnSY6h2Y7hAE5.png)
+So as the vector field density increased the performance gains were more apparent
 
 ---
 
+Next was
 ### Spacial partitioning
 
 We chose octrees because **they are built into the engine**, but we might change it for something more optimised for uniform grids
@@ -230,7 +236,11 @@ We chose octrees because **they are built into the engine**, but we might change
 
 ---
 
-TOctree**2**, I get why you did it, but I still hate it
+In Unreal they have a class called `TOctree`... which is DEPRECATED, so how does Epic Games fix this? By slapping a number on the end of the class and calling it a day
+
+And thus, TOctree**2** was born
+
+Epic, I get why you did it, but I still hate it
 
 ```cpp
 class TOctree : public TOctree_DEPRECATED
@@ -242,6 +252,8 @@ class TOctree2
 
 ---
 
+By partitioning the sampling space we could reduce `n` significantly and improve performance without affecting the final output quality, especially for sparse grids with empty regions
+
 We use it for:
 - **Sampling candidates** for the KNN 
 - **Culling points** far away from a projected normal
@@ -250,11 +262,12 @@ By doing this **we can skip massive parts of the level** and do global vector fi
 
 ---
 
+But what use is this if we leave the hardware untapped, so we decided to
 ### Give it more **JUICE**
 
 The setup is **currently multi-threaded on the CPU** for the most intensive parts
 
-We are going to be **adding a GPU implementation** to allow for a hybrid of both
+And we are going to be **adding a GPU implementation** to allow for a hybrid of both
 
 ---
 
