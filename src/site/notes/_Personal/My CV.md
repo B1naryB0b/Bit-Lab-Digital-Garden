@@ -53,16 +53,22 @@ Below is a list of my technical abilities and core competencies, gained from exp
 >DevOps & Infrastrucute
 >- Perforce, Plastic SCM, Git (GUI/CLI)
 >- Self-hosted Perforce (P4D, P4V, P4ADMIN etc)
->- Linux terminal commands & OpenSSH
->- Uptime monitoring, Alerts, n8n automations
+>- Uptime monitoring, Alerts
 >- Cloud compute providers (Digital Ocean & AWS)
 >- VPN hosting (OpenVPN, WireGuard & Tailscale), Networking
 >- Build scripts, VENV, GitHub Actions
->- Docker, VM/VPS, Hyper-V, Proxmox 
+>- Docker, VM/VPS, Hyper-V, Proxmox
 >---
 >General
->- VS/VS Code, JetBrains Suite, ReSharper, Cursor, Claude Code
->- RESTful APIs, Local/API LLMs, Webhooks, Putty/MobaXterm, WSL
+>- Linux terminal commands & OpenSSH
+>- VS/VS Code, JetBrains Suite
+>- RESTful APIs, Webhooks
+>- Putty/MobaXterm, WSL, CMD/PowerShell
+>---
+>AI Tools & Development
+>- Claude Code, Cursor, JetBrains AI, GitHub Copilot
+>- Local/API LLMs, Ollama, TTS (Google), STT (Whisper), Vector Embedding
+>- n8n automations
 
 > [!summary]- Organisation Skills
 >- Wiki knowledge repositories in Notion and Obsidian
