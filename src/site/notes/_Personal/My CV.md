@@ -8,7 +8,7 @@
 ### About Me
 I'm a generalist programmer capable of writing gameplay, systems, tooling and pipeline code, as well as managing DevOps for larger teams. Prior to working at a studio I had been a hobbyist game developer for around 10 years and have a working understanding of most areas of game development.
 
->[!question] Looking for my portfolio? You can find it [[_Personal/Portfolio\|here]].
+>[!question] Looking for **my portfolio?** You can find it [[_Personal/Portfolio\|here]].
 <div class="page-break" style="page-break-before: always;"></div>
 
 > [!example] My bio site with links to everything is [here](https://bio.site/cuneyd.kahraman)

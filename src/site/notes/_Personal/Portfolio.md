@@ -8,7 +8,7 @@
 ### About Me
 Hi, I'm a UK based game developer looking for challenging projects to work on. I'm open to working on any interesting technical project with a preference for gameplay, systems, tooling and, infrastructure and DevOps for games.
 
->[!question] Looking for my CV? You can find it [[_Personal/My CV\|here]].
+>[!question] Looking for **my CV?** You can find it [[_Personal/My CV\|here]].
 
 > [!example] My bio site with links to everything is [here](https://bio.site/cuneyd.kahraman)
 
