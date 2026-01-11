@@ -68,7 +68,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 
 I ran a workshop at King's College London around the basics of vertex and fragment shaders. By the end of the session students were able to reproduce the shader below.
 
-![[water-shader.gif|1080]]
+![[water-shader.gif|1080px]]
 
 > [!example]- Sample images from the original workshop presentation
 > ![Shader Basics Diagram.excalidraw.png](/img/user/Excalidraw/Shaders/Shader%20Basics%20Diagram.excalidraw.png)
