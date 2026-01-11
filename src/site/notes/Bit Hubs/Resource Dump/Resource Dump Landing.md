@@ -1056,3 +1056,21 @@ https://www.blockbench.net/
 https://jamesbinnstech.wordpress.com/
 
 https://wirepair.org/
+
+https://kaic.me/win-post-install/
+
+https://tuxmate.com/
+
+https://www-innersloth-com.cdn.ampproject.org/c/s/www.innersloth.com/how-i-review-outersloth-pitches/amp/#
+
+https://unity.com/humanity#grants-for-creators
+
+https://newsletter.hushcrasher.com/p/taxonomy-of-games?ref=aftermath.site
+
+https://newsletter.hushcrasher.com/
+
+https://gameconfguide.com/
+
+https://ko-fi.com/
+
+https://docontract.com/

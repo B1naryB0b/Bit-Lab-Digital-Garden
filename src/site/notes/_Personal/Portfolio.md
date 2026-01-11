@@ -26,6 +26,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 ##### Graviton
 **Lunaboot Studios**
 **Tools: UE5/Unity/Perforce/Git**
+**Itch.io:** https://copper76.itch.io/graviton-production
 
 <iframe src="https://www.youtube.com/embed/4JZPQ9T5hMw" title="Graviton Demo Reel" style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; overflow: hidden;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,6 +45,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 ##### Shards of Bone
 **Solo Dev**
 **Tools: Unity/Git/Plastic SCM**
+**Itch.io:** https://b1nary-b0b.itch.io/shards-of-bone
 
 <iframe src="https://www.youtube.com/embed/hGSXENkXshY" title="Graviton Unity Prototype" style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; overflow: hidden;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -58,3 +60,16 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 - Everything else
 
 **This project is heavily inspired by one of my favourite arcade FPS games [Devil Daggers](https://store.steampowered.com/app/422970/Devil_Daggers/)**
+
+##### Water Shader Workshop
+**KCL Workshop**
+**Tools: Godot/Git**
+**GitHub:** https://github.com/B1naryB0b/Godot-Water-Shader-Workshop
+
+I ran a workshop at King's College London around the basics of vertex and fragment shaders. By the end of the session students were able to reproduce the shader below.
+
+![[water-shader.gif]]
+
+> [!example]- Sample images from the original workshop presentation
+> ![Shader Basics Diagram.excalidraw.png](/img/user/Excalidraw/Shaders/Shader%20Basics%20Diagram.excalidraw.png)
+> ![Shaders As Components.excalidraw.png](/img/user/Excalidraw/Shaders/Shaders%20As%20Components.excalidraw.png)

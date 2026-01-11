@@ -34,23 +34,25 @@ Below is a list of my technical abilities and core competencies, gained from exp
 >- Investor and publisher pitching experience
 
 > [!info]- Software Skills
->Game Dev
+>**Game Dev**
 >- Unity, UE5, Godot
 >- Custom Editors/Tooling, Engine Forking, Profiling & Optimisation
 >- Blender, UE5 Material graphs, Unity ProBuilder & Shader graphs
 >---
->Languages & Scripting
+>**Languages & Scripting**
+>These levels are self evaluated and vaguely represent confidence
 > - C# - Proficient (3 Years)
 > - C++ - Intermediate (1 Year)
 > - Python - Intermediate (1 Year)
 > - Bash - Intermediate (1 Year)
+> - HLSL - Entry-level (1 Year)
 > - PowerShell - Entry-level (1 Year)
 > - BluePrints - Entry-level (1 Year)
 > - GDScript - Entry-level (1 Year)
 > - Golang - Entry-level (6 months)
 > - English - Pretty OK (23 Years)
 >---
->DevOps & Infrastrucute
+>**DevOps & Infrastrucute**
 >- Perforce, Plastic SCM, Git (GUI/CLI)
 >- Self-hosted Perforce (P4D, P4V, P4ADMIN etc)
 >- Uptime monitoring, Alerts
@@ -59,13 +61,13 @@ Below is a list of my technical abilities and core competencies, gained from exp
 >- Build scripts, VENV, GitHub Actions
 >- Docker, VM/VPS, Hyper-V, Proxmox
 >---
->General
+>**General**
 >- Linux terminal commands & OpenSSH
 >- VS/VS Code, JetBrains Suite
 >- RESTful APIs, Webhooks
 >- Putty/MobaXterm, WSL, CMD/PowerShell
 >---
->AI Tools & Development
+>**AI Tools & Development**
 >- Claude Code, Cursor, JetBrains AI, GitHub Copilot
 >- Local/API LLMs, Ollama, TTS (Google), STT (Whisper), Vector Embedding
 >- n8n automations
