@@ -62,13 +62,16 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 **This project is heavily inspired by one of my favourite arcade FPS games [Devil Daggers](https://store.steampowered.com/app/422970/Devil_Daggers/)**
 
 ##### Lots and Lots of Game Jams
-**Solo/Teams**
-**Tools: Unity/Unreal/Git/Perforce/Plastic SCM etc**
 **Itch.io:** https://b1nary-b0b.itch.io/
 
 ![AttackRoomGameplay-ezgif.com-video-to-gif-converter.gif](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/AttackRoomGameplay-ezgif.com-video-to-gif-converter.gif)
+> [!danger]- Attack Room ([**Play**](https://b1nary-b0b.itch.io/attack-room))
+> **Solo Dev**
+> **Tools: Unity/Git**
 
 ![Pasted image 20260117003756.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Pasted%20image%2020260117003756.png)
+> [!bug]- Deep Debug ([**Play**](https://b1nary-b0b.itch.io/deep-debug))
+> 
 
 ![Pasted image 20260117003723.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Pasted%20image%2020260117003723.png)
 
