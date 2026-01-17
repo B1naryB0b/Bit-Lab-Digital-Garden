@@ -81,7 +81,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 
 I ran a workshop at King's College London around the basics of vertex and fragment shaders. By the end of the session students were able to reproduce the shader below.
 
-![[Screen Recording 2026-01-08 201136.webm]]
+![ScreenRecording2026-01-08201136-ezgif.com-video-to-gif-converter.gif](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/ScreenRecording2026-01-08201136-ezgif.com-video-to-gif-converter.gif)
 
 > [!example]- Sample images from the original workshop presentation
 > ![Shader Basics Diagram.excalidraw.png](/img/user/Excalidraw/Shaders/Shader%20Basics%20Diagram.excalidraw.png)
