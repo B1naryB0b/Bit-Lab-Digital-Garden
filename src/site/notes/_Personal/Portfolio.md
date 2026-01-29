@@ -85,7 +85,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 > - Grid-based building system
 > - A* enemy path finding that accounts for digging through blockers and updates in the terrain
 
-![Pasted image 20260117003723.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Pasted%20image%2020260117003723.png)
+![JustAnotherDay.gif|1080](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/JustAnotherDay.gif)
 > [!tldr]- Just Another Day ([**Play**](https://axmn.itch.io/just-another-day))
 > **Lead Programmer & Tech Art**
 > **Tools: Unity/Git**
