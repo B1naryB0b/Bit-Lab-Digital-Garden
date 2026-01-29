@@ -75,6 +75,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 > - Context based cursor icon
 > - Enemy wave manager
 
+
 ![DeepDebug-ezgif.com-video-to-gif-converter.gif](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/DeepDebug-ezgif.com-video-to-gif-converter.gif)
 > [!bug]- Deep Debug ([**Play**](https://b1nary-b0b.itch.io/deep-debug))
 > **Solo Dev**
@@ -85,6 +86,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 > - Grid-based building system
 > - A* enemy path finding that accounts for digging through blockers and updates in the terrain
 
+
 ![JustAnotherDay.gif|1080](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/JustAnotherDay.gif)
 > [!tldr]- Just Another Day ([**Play**](https://axmn.itch.io/just-another-day))
 > **Lead Programmer & Tech Art**
@@ -93,7 +95,8 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 > - All the programming for the house section of the game including animations, camera movement, player interactions, cursor effects and walking
 > - On the art side any 2D/3D blending in the level, light/shadow shafts, particle effects, mirror shine effect and fake doorway effects
 
-![Pasted image 20260117003856.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Pasted%20image%2020260117003856.png)
+
+![GravitonJam.gif|1080](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/GravitonJam.gif)
 > [!example]- Graviton (Jam Version) ([**Play**](https://copper76.itch.io/graviton))
 > **Solo Dev**
 > **Tools: Unity/Git/FMOD**
@@ -102,7 +105,6 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 > - Devices (e.g. buttons, pressure plates, doors etc)
 > - Building levels in ProBuilder
 > - Shaders for everything in the game
-
 
 And many more jam games you can find on my [itch.io page](https://b1nary-b0b.itch.io/)
 
