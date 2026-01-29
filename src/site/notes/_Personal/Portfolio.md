@@ -15,7 +15,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 ### Contact Me
 
 **Phone No.:** (+44)7933254806
-**Email:** cuneydkahraman@gmail.com 
+**Email:** cuneydkahraman@outlook.com 
 **LinkedIn:** https:www.linkedin.com/in/cuneyd-kahraman/ 
 **Located:** London, UK
 
@@ -51,6 +51,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 
 **Contributions:**
 - Custom state machine parkour controller with jump buffering, coyote time, bunny hopping and quake-style movement physics
+- Scriptable object config system
 - Enemy boid system with compute shader (based on [this GitHub repo](https://github.com/SebLague/Boids))
 - Wave management with easy to use editor tooling
 - Simple IK and recoil system (using [these customisable low-poly arms](https://hozq3d.gumroad.com/l/LVA4?layout=profile))
@@ -68,14 +69,42 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 > [!danger]- Attack Room ([**Play**](https://b1nary-b0b.itch.io/attack-room))
 > **Solo Dev**
 > **Tools: Unity/Git**
+> **Features:**
+> - Built the whole thing in 8hrs
+> - Dynamic resizable box
+> - Context based cursor icon
+> - Enemy wave manager
 
-![Pasted image 20260117003756.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Pasted%20image%2020260117003756.png)
+![DeepDebug-ezgif.com-video-to-gif-converter.gif](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/DeepDebug-ezgif.com-video-to-gif-converter.gif)
 > [!bug]- Deep Debug ([**Play**](https://b1nary-b0b.itch.io/deep-debug))
-> 
+> **Solo Dev**
+> **Tools: Unity/Git**
+> **Features:**
+> - Procedurally generated levels
+> - Turn-based bullet reflection mechanics
+> - Grid-based building system
+> - A* enemy path finding that accounts for digging through blockers and updates in the terrain
 
 ![Pasted image 20260117003723.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Pasted%20image%2020260117003723.png)
+> [!tldr]- Just Another Day ([**Play**](https://axmn.itch.io/just-another-day))
+> **Lead Programmer & Tech Art**
+> **Tools: Unity/Git**
+> **Contributions:**
+> - All the programming for the house section of the game including animations, camera movement, player interactions, cursor effects and walking
+> - On the art side any 2D/3D blending in the level, light/shadow shafts, particle effects, mirror shine effect and fake doorway effects
 
 ![Pasted image 20260117003856.png](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/Pasted%20image%2020260117003856.png)
+> [!example]- Graviton (Jam Version) ([**Play**](https://copper76.itch.io/graviton))
+> **Solo Dev**
+> **Tools: Unity/Git/FMOD**
+> **Contributions:**
+> - Custom first person player character controller with slope support
+> - Devices (e.g. buttons, pressure plates, doors etc)
+> - Building levels in ProBuilder
+> - Shaders for everything in the game
+
+
+And many more jam games you can find on my [itch.io page](https://b1nary-b0b.itch.io/)
 
 ##### Water Shader Workshop
 **KCL Workshop**

@@ -817,6 +817,8 @@ https://docusaurus.io/
 
 https://sentry.io/welcome/
 
+https://docs.sentry.io/
+
 https://about.gitea.com/
 
 https://linuxjourney.com
@@ -1074,3 +1076,13 @@ https://gameconfguide.com/
 https://ko-fi.com/
 
 https://docontract.com/
+
+https://vb-audio.com/Cable/
+
+https://www.youtube.com/watch?v=OcLUJ3bR4Yk
+
+https://assets.publishing.service.gov.uk/media/5a7c727c40f0b62aff6c1bb6/PU1572_PF2_articles_of_association_p02.pdf
+
+https://postiz.com/
+
+https://trytalo.com/

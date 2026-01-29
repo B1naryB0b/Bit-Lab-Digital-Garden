@@ -16,7 +16,7 @@ I'm a generalist programmer capable of writing gameplay, systems, tooling and pi
 ### Contact Me
 
 **Phone No.:** (+44)7933254806
-**Email:** cuneydkahraman@gmail.com 
+**Email:** cuneydkahraman@outlook.com 
 **LinkedIn:** https:www.linkedin.com/in/cuneyd-kahraman/ 
 **Located:** London, UK
 
