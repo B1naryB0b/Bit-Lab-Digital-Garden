@@ -15,7 +15,6 @@ I'm a generalist programmer capable of writing gameplay, systems, tooling and pi
 
 ### Contact Me
 
-**Phone No.:** (+44)7933254806
 **Email:** cuneydkahraman@outlook.com 
 **LinkedIn:** https:www.linkedin.com/in/cuneyd-kahraman/ 
 **Located:** London, UK
@@ -40,17 +39,17 @@ Below is a list of my technical abilities and core competencies, gained from exp
 >- Blender, UE5 Material graphs, Unity ProBuilder & Shader graphs
 >---
 >**Languages & Scripting**
->These levels are self evaluated and vaguely represent confidence
+>These levels are self evaluated and vaguely represent confidence and time spent *(based on full-time equivalent)*
 > - C# - Proficient (3 Years)
 > - C++ - Intermediate (1 Year)
 > - Python - Intermediate (1 Year)
 > - Bash - Intermediate (1 Year)
 > - HLSL - Entry-level (1 Year)
-> - PowerShell - Entry-level (1 Year)
-> - BluePrints - Entry-level (1 Year)
-> - GDScript - Entry-level (1 Year)
-> - Golang - Entry-level (6 months)
-> - English - Pretty OK (23 Years)
+> - PowerShell - Entry-level
+> - BluePrints - Entry-level
+> - GDScript - Entry-level
+> - Golang - Entry-level
+> - English - Native
 >---
 >**DevOps & Infrastrucute**
 >- Perforce, Plastic SCM, Git (GUI/CLI)
@@ -98,12 +97,6 @@ Contributions: First person parkour controller with grappling mechanics, boid ba
 
 **Nomad Stays: Director**
 Contributions: Setup all the infrastructure and automations for the business, channel management, price/availability adjustment, automated messaging and a direct booking website.
-### Game Jams
-**Just Another Day: Lead Programmer/Tech Artist (Unity)**
-Contributions: Built core gameplay, integrated audio and art, handled animations, created visual effects and managed technical production tasks.
-
-**Gobsmacked: Gameplay Programmer (Unreal)**
-Contributions: Enemy/player ragdoll system, player controller, skeleton based attack system, weapon pickup/throwing, documentation for other team members.
 ### Education
 **Physics BSc King’s College London (KCL):** 
 Graduated with a diploma.

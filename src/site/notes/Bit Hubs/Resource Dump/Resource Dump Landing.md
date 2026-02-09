@@ -1086,3 +1086,9 @@ https://assets.publishing.service.gov.uk/media/5a7c727c40f0b62aff6c1bb6/PU1572_P
 https://postiz.com/
 
 https://trytalo.com/
+
+https://ezgif.com/
+
+https://forui.dev/
+
+https://sunarya-thito.github.io/shadcn_flutter/

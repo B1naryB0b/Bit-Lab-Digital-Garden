@@ -14,7 +14,6 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 
 ### Contact Me
 
-**Phone No.:** (+44)7933254806
 **Email:** cuneydkahraman@outlook.com 
 **LinkedIn:** https:www.linkedin.com/in/cuneyd-kahraman/ 
 **Located:** London, UK
@@ -94,6 +93,7 @@ Hi, I'm a UK based game developer looking for challenging projects to work on. I
 > **Contributions:**
 > - All the programming for the house section of the game including animations, camera movement, player interactions, cursor effects and walking
 > - On the art side any 2D/3D blending in the level, light/shadow shafts, particle effects, mirror shine effect and fake doorway effects
+> - Handled production tasks and timelines
 
 
 ![GravitonJam.gif|1080](/img/user/_Bit%20Lab%20Organisation/Bit%20Lab%20Site%20Images/GravitonJam.gif)
